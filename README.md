@@ -10,6 +10,11 @@ The clean dataset has been created with the following characteristics:
 - No empty strings
 - All fields contain actual content or descriptive placeholders
 
+The dataset is available in this repository as `clean_dataset.csv.gz` (compressed format). You can uncompress it using:
+```bash
+gunzip clean_dataset.csv.gz
+```
+
 ## Scripts
 
 ### 1. Create Clean Dataset
