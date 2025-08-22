@@ -9,87 +9,102 @@ export SUPABASE_SERVICE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdX
 # Create the table using the REST API
 echo "Creating table nelson_pediatrics_clean..."
 
+# Create a temporary SQL file
+cat > create_table.sql << EOF
+CREATE TABLE IF NOT EXISTS nelson_pediatrics_clean (
+    id SERIAL PRIMARY KEY,
+    chapter_number TEXT NOT NULL,
+    chapter_title TEXT NOT NULL,
+    section_title TEXT NOT NULL,
+    subsection_title TEXT NOT NULL,
+    topic_title TEXT NOT NULL,
+    background TEXT NOT NULL,
+    epidemiology TEXT NOT NULL,
+    pathophysiology TEXT NOT NULL,
+    clinical_presentation TEXT NOT NULL,
+    diagnostics TEXT NOT NULL,
+    differential_diagnoses TEXT NOT NULL,
+    management TEXT NOT NULL,
+    prevention TEXT NOT NULL,
+    notes TEXT NOT NULL,
+    drug_name TEXT NOT NULL,
+    drug_indication TEXT NOT NULL,
+    drug_mechanism TEXT NOT NULL,
+    drug_adverse_effects TEXT NOT NULL,
+    drug_contraindications TEXT NOT NULL,
+    dosage_age_group TEXT NOT NULL,
+    dosage_route TEXT NOT NULL,
+    dosage_value TEXT NOT NULL,
+    dosage_max TEXT NOT NULL,
+    dosage_frequency TEXT NOT NULL,
+    dosage_special_considerations TEXT NOT NULL,
+    procedure_name TEXT NOT NULL,
+    procedure_steps TEXT NOT NULL,
+    procedure_complications TEXT NOT NULL,
+    procedure_equipment TEXT NOT NULL,
+    algorithm_title TEXT NOT NULL,
+    algorithm_description TEXT NOT NULL,
+    algorithm_flowchart_url TEXT NOT NULL,
+    reference_citation TEXT NOT NULL,
+    reference_doi TEXT NOT NULL,
+    reference_url TEXT NOT NULL,
+    media_url TEXT NOT NULL,
+    media_type TEXT NOT NULL,
+    media_caption TEXT NOT NULL,
+    revised_by TEXT NOT NULL,
+    revision_notes TEXT NOT NULL,
+    revision_date TEXT NOT NULL,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
+);
+EOF
+
+# Create a temporary SQL file for the index
+cat > create_index.sql << EOF
+CREATE INDEX IF NOT EXISTS nelson_pediatrics_clean_search_idx ON nelson_pediatrics_clean 
+USING GIN (to_tsvector('english', 
+    chapter_title || ' ' || 
+    section_title || ' ' || 
+    subsection_title || ' ' || 
+    topic_title || ' ' || 
+    background || ' ' || 
+    epidemiology || ' ' || 
+    pathophysiology || ' ' || 
+    clinical_presentation || ' ' || 
+    diagnostics || ' ' || 
+    differential_diagnoses || ' ' || 
+    management || ' ' || 
+    prevention || ' ' || 
+    notes || ' ' || 
+    drug_name || ' ' || 
+    drug_indication || ' ' || 
+    drug_mechanism || ' ' || 
+    drug_adverse_effects || ' ' || 
+    drug_contraindications
+));
+EOF
+
+# Execute the SQL to create the table
+SQL_QUERY=$(cat create_table.sql)
 curl -X POST "${SUPABASE_URL}/rest/v1/rpc/execute_sql" \
   -H "apikey: ${SUPABASE_SERVICE_KEY}" \
   -H "Authorization: Bearer ${SUPABASE_SERVICE_KEY}" \
   -H "Content-Type: application/json" \
-  -d '{
-    "query": "CREATE TABLE IF NOT EXISTS nelson_pediatrics_clean (
-        id SERIAL PRIMARY KEY,
-        chapter_number TEXT NOT NULL,
-        chapter_title TEXT NOT NULL,
-        section_title TEXT NOT NULL,
-        subsection_title TEXT NOT NULL,
-        topic_title TEXT NOT NULL,
-        background TEXT NOT NULL,
-        epidemiology TEXT NOT NULL,
-        pathophysiology TEXT NOT NULL,
-        clinical_presentation TEXT NOT NULL,
-        diagnostics TEXT NOT NULL,
-        differential_diagnoses TEXT NOT NULL,
-        management TEXT NOT NULL,
-        prevention TEXT NOT NULL,
-        notes TEXT NOT NULL,
-        drug_name TEXT NOT NULL,
-        drug_indication TEXT NOT NULL,
-        drug_mechanism TEXT NOT NULL,
-        drug_adverse_effects TEXT NOT NULL,
-        drug_contraindications TEXT NOT NULL,
-        dosage_age_group TEXT NOT NULL,
-        dosage_route TEXT NOT NULL,
-        dosage_value TEXT NOT NULL,
-        dosage_max TEXT NOT NULL,
-        dosage_frequency TEXT NOT NULL,
-        dosage_special_considerations TEXT NOT NULL,
-        procedure_name TEXT NOT NULL,
-        procedure_steps TEXT NOT NULL,
-        procedure_complications TEXT NOT NULL,
-        procedure_equipment TEXT NOT NULL,
-        algorithm_title TEXT NOT NULL,
-        algorithm_description TEXT NOT NULL,
-        algorithm_flowchart_url TEXT NOT NULL,
-        reference_citation TEXT NOT NULL,
-        reference_doi TEXT NOT NULL,
-        reference_url TEXT NOT NULL,
-        media_url TEXT NOT NULL,
-        media_type TEXT NOT NULL,
-        media_caption TEXT NOT NULL,
-        revised_by TEXT NOT NULL,
-        revision_notes TEXT NOT NULL,
-        revision_date TEXT NOT NULL,
-        created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
-    );"
-}'
+  -d "{\"query\": \"${SQL_QUERY}\"}"
 
+echo ""
 echo "Creating search index..."
 
+# Execute the SQL to create the index
+SQL_QUERY=$(cat create_index.sql)
 curl -X POST "${SUPABASE_URL}/rest/v1/rpc/execute_sql" \
   -H "apikey: ${SUPABASE_SERVICE_KEY}" \
   -H "Authorization: Bearer ${SUPABASE_SERVICE_KEY}" \
   -H "Content-Type: application/json" \
-  -d '{
-    "query": "CREATE INDEX IF NOT EXISTS nelson_pediatrics_clean_search_idx ON nelson_pediatrics_clean 
-    USING GIN (to_tsvector('\''english'\'', 
-        chapter_title || '\'' '\'' || 
-        section_title || '\'' '\'' || 
-        subsection_title || '\'' '\'' || 
-        topic_title || '\'' '\'' || 
-        background || '\'' '\'' || 
-        epidemiology || '\'' '\'' || 
-        pathophysiology || '\'' '\'' || 
-        clinical_presentation || '\'' '\'' || 
-        diagnostics || '\'' '\'' || 
-        differential_diagnoses || '\'' '\'' || 
-        management || '\'' '\'' || 
-        prevention || '\'' '\'' || 
-        notes || '\'' '\'' || 
-        drug_name || '\'' '\'' || 
-        drug_indication || '\'' '\'' || 
-        drug_mechanism || '\'' '\'' || 
-        drug_adverse_effects || '\'' '\'' || 
-        drug_contraindications
-    ));"
-}'
+  -d "{\"query\": \"${SQL_QUERY}\"}"
 
+echo ""
 echo "Table creation completed."
+
+# Clean up temporary files
+rm create_table.sql create_index.sql
 
