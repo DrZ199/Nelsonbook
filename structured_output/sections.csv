@@ -1,0 +1,1503 @@
+section_id,chapter_id,section_number,title,title_tsv
+1,4,2.3,and Chapter 1). Allostasis refers to the normal physiologic changes,1 allostasis and changes chapter normal physiologic refers the to
+2,7,2.1,Racism and Child Health,and child health racism
+3,7,7.68,"deaths/1,000 live births, has remained essentially unchanged for",000 1 births deaths essentially for has live remained unchanged
+4,8,3.9,for Asians only; 9.4 for,4 9 asians for only
+5,8,15.4,for Asians only; 48.1,1 48 asians for only
+6,8,82.0,for Asian alone; 161.4,161 4 alone asian for
+7,11,3.2,for neonatal and child health: All-­cause and cause-­specific mortality findings from the Global Burden of Disease Study 2019. Lancet.,2019 all and burden cause child disease findings for from global health lancet mortality neonatal of specific study the
+8,12,3.4,and 3.5). Growth of economies during the first half of the 20th,20th 3 5 and during economies first growth half of the
+9,12,2.77,pediatric deaths/1 million children in LMICs compared to 1.32/,1 32 children compared deaths in lmics million pediatric to
+10,20,3.0,model uses the concept of the “patient journey” to describe a,a concept describe journey model of patient the to uses
+11,22,5.2,describes proximal metrics to arrest and the types of code events used,and arrest code describes events metrics of proximal the to types used
+12,32,0.5,"mg/kg (15-­30 mg) IV q6h, max 24h dose 120",120 15 24h 30 dose iv kg max mg q6h
+13,32,0.3,mg/kg PO q4h if <50 kg,50 if kg mg po q4h
+14,32,0.1,mg/kg PO q4h if <50 kg,50 if kg mg po q4h
+15,32,0.05,mg/kg PO q4h if <50 kg,50 if kg mg po q4h
+16,32,0.015,mg/kg IV q2-­4h,4h iv kg mg q2
+17,32,0.5,mg/kg PO at bedtime (max 150 mg/day).,150 at bedtime day kg max mg po
+18,32,0.1,mg/kg PO q4h prn*†,kg mg po prn q4h
+19,32,1.5,"mg patch, change q72h (for children >8-­12 yr",12 8 change children for mg patch q72h yr
+20,33,0.15,mg/kg dose IV/PO q8h prn. No single IV,dose iv kg mg no po prn q8h single
+21,33,0.1,mg/kg/dose tid PO/IV; max dose 10 mg/day,10 day dose iv kg max mg po tid
+22,33,0.01,mg/kg PO tid prn for acute onset:,acute for kg mg onset po prn tid
+23,33,0.025,mg/kg in 1 hr prn,1 hr in kg mg prn
+24,33,0.3,"mg/kg/dose (2.5-­5 mg) titrated as needed, up",2 5 as dose kg mg needed titrated up
+25,33,0.02,mg/kg (1.5 mg) IV q6h PRN,1 5 iv kg mg prn q6h
+26,33,0.1,mg/kg IV/PO/SL/PR repeat q10min × 2,2 iv kg mg po pr q10min repeat sl
+27,33,0.1,mg/kg IV/PO q6h (max 5 mg/dose if <5 yr;,5 dose if iv kg max mg po q6h yr
+28,39,11.1,"list suggested screening tests for infectious diseases for international adoptees or immigrants/refugees, respectively. Table 11.2 lists",11 2 adoptees diseases for immigrants infectious international list lists or refugees respectively screening suggested table tests
+29,49,15.1,"Bullying, Cyberbullying, and School",and bullying cyberbullying school
+30,49,15.2,Media Violence,media violence
+31,51,15.3,Effects of War on Children,children effects of on war
+32,59,17.1,Sexual Abuse,abuse sexual
+33,62,17.2,Factitious Disorder ­Imposed on,disorder factitious imposed on
+34,69,94.9,102.0,0 102
+35,71,20.3,"and 20.4) (see Chapters 25 and 26). In addition, parents should",20 25 26 4 addition and chapters in parents see should
+36,76,23.1,Infant Crying and Colic,and colic crying infant
+37,111,52.3,mg/10.4 mg),10 4 mg
+38,111,26.1,/5.2,2 5
+39,111,26.1,/5.2-52.3/10.4,10 2 3 4 5 52
+40,112,2.5,twice daily,daily twice
+41,112,0.05,mg/kg/day,day kg mg
+42,118,36.1,Rumination Disorder,disorder rumination
+43,119,36.2,Pica,pica
+44,119,37.1,Tic Disorders,disorders tic
+45,121,37.2,Stereotypic Movement Disorder,disorder movement stereotypic
+46,125,39.1,Depressive Disorders,depressive disorders
+47,128,39.2,Bipolar Disorders,bipolar disorders
+48,142,47.1,Schizophrenia Spectrum Disorders,disorders schizophrenia spectrum
+49,145,47.3,Catatonia in Children and Adolescents,adolescents and catatonia children in
+50,145,47.2,Non-Schizophrenia Spectrum Psychotic,non psychotic schizophrenia spectrum
+51,146,47.4,Hallucinations of Childhood,childhood hallucinations of
+52,155,314.01,"Attention-­deficit/hyperactivity disorder, combined presentation:",attention combined deficit disorder hyperactivity presentation
+53,155,314.00,"Attention-­deficit/hyperactivity disorder, predominantly",attention deficit disorder hyperactivity predominantly
+54,155,314.01,"Attention-­deficit/hyperactivity disorder, predominantly",attention deficit disorder hyperactivity predominantly
+55,159,52.1,Math Disabilities,disabilities math
+56,161,315.2,(F81.81) With impairment in written expression:,81 expression f81 impairment in with written
+57,161,52.2,Writing Disabilities,disabilities writing
+58,167,53.1,Childhood-­Onset Fluency Disorder,childhood disorder fluency onset
+59,174,56.2,IV Genetic,genetic iv
+60,194,60.5,and 60.6).,6 60 and
+61,210,691.6,and Table 691.3).,3 691 and table
+62,223,695.1,Erythema Multiforme,erythema multiforme
+63,224,695.2,Reactive Infectious Mucocutaneous,infectious mucocutaneous reactive
+64,224,695.3,Stevens-­Johnson Syndrome,johnson stevens syndrome
+65,225,695.4,Toxic Epidermal Necrolysis,epidermal necrolysis toxic
+66,226,695.5,Mechanobullous Disorders,disorders mechanobullous
+67,227,695.7,and 695.8). The blister is subepidermal in all types of DEB. The,695 8 all and blister deb in is of subepidermal the types
+68,228,695.6,Pemphigus,pemphigus
+69,228,695.7,Dermatitis Herpetiformis,dermatitis herpetiformis
+70,228,695.8,Linear Immunoglobulin A (IgA),a iga immunoglobulin linear
+71,229,696.1,Contact Dermatitis,contact dermatitis
+72,230,696.2,Nummular Eczema,eczema nummular
+73,230,696.3,Pityriasis Alba,alba pityriasis
+74,231,696.4,Lichen Simplex Chronicus,chronicus lichen simplex
+75,231,696.5,Acute Palmoplantar Eczema,acute eczema palmoplantar
+76,231,696.6,Seborrheic Dermatitis,dermatitis seborrheic
+77,234,698.1,Psoriasis,psoriasis
+78,236,0.4,mg/kg,kg mg
+79,236,698.2,Pityriasis Lichenoides,lichenoides pityriasis
+80,237,698.3,Keratosis Pilaris,keratosis pilaris
+81,237,698.4,Lichen Spinulosus,lichen spinulosus
+82,237,698.5,Pityriasis Rosea,pityriasis rosea
+83,238,698.6,Pityriasis Rubra Pilaris,pilaris pityriasis rubra
+84,238,698.7,Darier Disease (Keratosis Follicularis),darier disease follicularis keratosis
+85,238,698.9,Lichen Striatus,lichen striatus
+86,238,698.8,Lichen Nitidus,lichen nitidus
+87,239,698.10,Lichen Planus,lichen planus
+88,239,698.11,Porokeratosis,porokeratosis
+89,239,698.12,Gianotti-­Crosti Syndrome (Papular,crosti gianotti papular syndrome
+90,239,698.13,Acanthosis Nigricans,acanthosis nigricans
+91,248,700.1,Mast Cell Activation Syndrome,activation cell mast syndrome
+92,250,701.1,Panniculitis and Erythema Nodosum,and erythema nodosum panniculitis
+93,251,0.5,"mg/kg 3 times a day, maximum 10 mg/dose) may be used in severe",10 3 a be day dose in kg maximum may mg severe times used
+94,251,701.2,Lipodystrophy,lipodystrophy
+95,260,706.1,Impetigo,impetigo
+96,261,706.2,Subcutaneous Tissue Infections,infections subcutaneous tissue
+97,262,706.3,Staphylococcal Scalded Skin,scalded skin staphylococcal
+98,262,706.4,Ecthyma,ecthyma
+99,262,706.5,Other Cutaneous Bacterial Infections,bacterial cutaneous infections other
+100,270,709.1,Arthropod Bites,arthropod bites
+101,271,709.2,Scabies,scabies
+102,273,709.3,Pediculosis,pediculosis
+103,274,709.4,Seabather’s Eruption,eruption s seabather
+104,282,0.8,(0.8),0 8
+105,282,1.2,(1.4),1 4
+106,282,0.9,(1.1),1
+107,282,0.22,Ulna,ulna
+108,282,0.25,Radius,radius
+109,282,0.75,Radius,radius
+110,282,0.9,Ulna,ulna
+111,282,0.7,(0.8),0 8
+112,285,715.1,Metatarsus Adductus,adductus metatarsus
+113,285,715.2,Calcaneovalgus Feet,calcaneovalgus feet
+114,285,715.3,Talipes Equinovarus (Clubfoot),clubfoot equinovarus talipes
+115,286,715.4,Congenital Vertical Talus,congenital talus vertical
+116,287,715.5,Hypermobile Pes Planus (Flexible,flexible hypermobile pes planus
+117,287,715.6,Tarsal Coalition,coalition tarsal
+118,288,715.7,Cavus Feet,cavus feet
+119,288,715.8,Osteochondroses/Apophysitis,apophysitis osteochondroses
+120,288,715.9,Puncture Wounds of the Foot,foot of puncture the wounds
+121,288,715.10,Toe Deformities,deformities toe
+122,290,715.11,Painful Foot,foot painful
+123,290,715.12,Shoes,shoes
+124,290,716.1,Normal Limb Development,development limb normal
+125,290,716.2,Limb Evaluation,evaluation limb
+126,290,716.3,Torsional Deformities,deformities torsional
+127,292,716.4,Coronal Plane Deformities,coronal deformities plane
+128,292,716.5,Congenital Angular Deformities of,angular congenital deformities of
+129,296,718.1,Discoid Lateral Meniscus,discoid lateral meniscus
+130,297,718.2,Popliteal Cysts (Baker Cysts),baker cysts popliteal
+131,297,718.3,Juvenile Osteochondritis Dissecans,dissecans juvenile osteochondritis
+132,297,718.4,Osgood-­Schlatter Disease and,and disease osgood schlatter
+133,298,718.5,Patellofemoral Pain Syndrome,pain patellofemoral syndrome
+134,298,718.6,Patellofemoral Instability,instability patellofemoral
+135,299,718.7,Anterior Cruciate Ligament Rupture,anterior cruciate ligament rupture
+136,300,719.1,Developmental Dysplasia of the Hip,developmental dysplasia hip of the
+137,302,719.2,Transient Monoarticular Synovitis,monoarticular synovitis transient
+138,303,719.3,Legg-­Calvé-­Perthes Disease,calvé disease legg perthes
+139,304,719.4,Slipped Capital Femoral Epiphysis,capital epiphysis femoral slipped
+140,305,720.1,Idiopathic Scoliosis,idiopathic scoliosis
+141,308,720.2,Congenital Scoliosis,congenital scoliosis
+142,308,720.3,"Neuromuscular Scoliosis, Genetic",genetic neuromuscular scoliosis
+143,309,720.4,Kyphosis,kyphosis
+144,310,720.5,Back Pain in Children,back children in pain
+145,311,720.6,Spondylolysis and Spondylolisthesis,and spondylolisthesis spondylolysis
+146,312,720.7,Spine Infection,infection spine
+147,312,720.13,and 720.14).,14 720 and
+148,312,720.8,Intervertebral Disk Herniation/,disk herniation intervertebral
+149,313,720.9,Tumors,tumors
+150,313,721.1,Torticollis,torticollis
+151,314,721.2,Klippel-­Feil Syndrome,feil klippel syndrome
+152,315,721.3,Cervical Anomalies and Instabilities,and anomalies cervical instabilities
+153,322,724.1,Unique Characteristics of Pediatric,characteristics of pediatric unique
+154,323,724.2,Pediatric Fracture Patterns,fracture patterns pediatric
+155,324,724.3,Upper Extremity Fractures,extremity fractures upper
+156,325,724.4,Lower Extremity Fractures,extremity fractures lower
+157,326,724.5,Operative Treatment of Fractures,fractures of operative treatment
+158,326,724.6,Complications of Fractures in Children,children complications fractures in of
+159,334,728.1,Growth Plate Injuries,growth injuries plate
+160,334,728.2,Shoulder Injuries,injuries shoulder
+161,336,728.3,Elbow Injuries,elbow injuries
+162,337,728.4,Low Back Injuries,back injuries low
+163,338,728.5,Hip and Pelvis Injuries,and hip injuries pelvis
+164,338,728.6,Knee Injuries,injuries knee
+165,339,728.7,Lower Leg Exertional Pain: Shin,exertional leg lower pain shin
+166,340,728.8,Ankle Injuries,ankle injuries
+167,341,728.9,Foot Injuries,foot injuries
+168,369,744.1,"Complex connective tissue macroenvironment illustrated by intermingled collagen and elastin fibers, nerves, mast cells, and",and by cells collagen complex connective elastin fibers illustrated intermingled macroenvironment mast nerves tissue
+169,392,1.2,Gy (120 rads),120 gy rads
+170,396,759.1,Tobacco,tobacco
+171,397,759.2,Marijuana Smoke Exposure,exposure marijuana smoke
+172,398,12.84,(±10.6),10 6
+173,398,11.19,(±5.73),5 73
+174,398,8.86,(±4.60),4 60
+175,398,9.18,(±4.95),4 95
+176,398,8.00,(±4.65),4 65
+177,398,7.07,(±3.36),3 36
+178,398,6.68,(±3.42),3 42
+179,399,74.9,Da,da
+180,399,200.59,Da,da
+181,401,0.25,point higher. A randomized placebo-­controlled treatment study,a controlled higher placebo point randomized study treatment
+182,403,762.1,Mushroom Poisoning,mushroom poisoning
+183,404,762.2,Solanine Poisoning,poisoning solanine
+184,404,762.3,Seafood Poisoning,poisoning seafood
+185,405,762.4,Melamine Poisoning,melamine poisoning
+186,408,4.4,mg/kg/day PO,day kg mg po
+187,412,12.5,mg/kg per dose four times daily,daily dose four kg mg per times
+188,420,0.69,× 50,50
+189,420,0.69,× 50 + (0.004 × 50),0 004 50
+190,420,0.996,× 50,50
+191,420,0.996,× 50 + (0.31 × 50),0 31 50
+192,424,0.78,± 0.37% of total Hb,0 37 hb of total
+193,424,0.0078,± 0.0037 (mass fraction),0 0037 fraction mass
+194,424,4.5,mmol/L,l mmol
+195,425,0.076,±,
+196,425,0.026,mmol/L,l mmol
+197,425,0.076,± 0.026 mmol/L,0 026 l mmol
+198,440,64.3,and see Table 62.6). Tanner staging cannot be used as a marker,6 62 a and as be cannot marker see staging table tanner used
+199,442,7.7,"kcal/mL; does not mix well, can administer as small bolus.",administer as bolus can does kcal mix ml not small well
+200,442,3.3,kcal/mL can be added to milk or nutritional supplements.,added be can kcal milk ml nutritional or supplements to
+201,447,7.5,mg/46 mg,46 mg
+202,449,1.33,"μmol/L in males and females, respectively, ages 9-­13; and 1.71",1 13 71 9 ages and females in l males respectively μmol
+203,451,0.4,mg/day,day mg
+204,451,0.4,mg/day,day mg
+205,451,0.4,mg/day,day mg
+206,452,67.1,Thiamine (Vitamin B1),b1 thiamine vitamin
+207,453,67.2,Riboflavin (Vitamin B2),b2 riboflavin vitamin
+208,454,67.3,Niacin (Vitamin B3),b3 niacin vitamin
+209,455,67.4,Vitamin B6 (Pyridoxine),b6 pyridoxine vitamin
+210,455,67.5,Biotin,biotin
+211,455,67.6,Folate,folate
+212,456,67.7,Vitamin B12 (Cobalamin),b12 cobalamin vitamin
+213,464,73.1,Composition of Body Fluids,body composition fluids of
+214,465,73.2,Regulation of Osmolality and Volume,and of osmolality regulation volume
+215,466,73.3,Sodium,sodium
+216,470,73.4,Potassium,potassium
+217,473,73.5,Magnesium,magnesium
+218,473,1.9,"mEq/L; 0.62-­0.94 mmol/L), with some variation among clinical",0 62 94 among clinical l meq mmol some variation with
+219,475,73.6,Phosphorus,phosphorus
+220,477,73.7,Acid-­Base Balance,acid balance base
+221,486,0.2,normal saline,normal saline
+222,492,77.1,Interfacility Transport of the Seriously,interfacility of seriously the transport
+223,493,77.2,Risk Adjustment and Outcomes,adjustment and outcomes risk
+224,494,77.3,Principles Applicable to the,applicable principles the to
+225,503,0.01,mg/kg (0.1 mL/kg of the,0 1 kg mg ml of the
+226,503,0.1,mg/mL concentration).,concentration mg ml
+227,503,0.1,mg/kg (0.1 mL/kg of the,0 1 kg mg ml of the
+228,503,0.02,mg/kg. May repeat once.,kg may mg once repeat
+229,503,0.2,mg/kg rapid bolus,bolus kg mg rapid
+230,504,0.1,mg/kg (max dose: 6 mg),6 dose kg max mg
+231,505,0.01,mg/kg (0.1 mL/kg of the,0 1 kg mg ml of the
+232,505,0.1,mg/mL concentration).,concentration mg ml
+233,520,84.1,Postural Tachycardia Syndrome,postural syndrome tachycardia
+234,520,0.5,2.0 4.0 6.0 8.0 10.0 12.0 14.0 16.0 18.0 20.022.024.026.0 29.0,0 022 024 026 10 12 14 16 18 2 20 29 4 6 8
+235,520,0.5,2.0 4.0 6.0 8.0 10.0 12.0 14.0 16.0 18.0 20.022.024.026.0 29.0,0 022 024 026 10 12 14 16 18 2 20 29 4 6 8
+236,520,0.5,2.0 4.0 6.0 8.0 10.0 12.0 14.0 16.0 18.0 20.022.024.026.0 29.0,0 022 024 026 10 12 14 16 18 2 20 29 4 6 8
+237,520,0.5,5.0 10.0 15.0 20.0 25.0 30.0 35.0 40.0 45.0 50.0 55.0 60.0,0 10 15 20 25 30 35 40 45 5 50 55 60
+238,520,0.5,5.0 10.0 15.0 20.0 25.0 30.0 35.0 40.0 45.0 50.0 55.0 60.0,0 10 15 20 25 30 35 40 45 5 50 55 60
+239,520,0.5,5.0 10.0 15.0 20.0 25.0 30.0 35.0 40.0 45.0 50.0 55.0 60.0,0 10 15 20 25 30 35 40 45 5 50 55 60
+240,520,35.0,37.0,0 37
+241,520,35.0,37.0,0 37
+242,520,35.0,37.0,0 37
+243,527,6.0,L/min/m2 is appropriate.,appropriate is l m2 min
+244,530,0.03,for every 10 mm Hg rise in Paco2. Thus an infant with bronchopulmonary dysplasia who has a basal Paco2 of 60 mm Hg will have a,10 60 a an basal bronchopulmonary dysplasia every for has have hg in infant mm of paco2 rise thus who will with
+245,530,0.95,(Table 86.9). When supplemental oxygen alone is inadequate to,86 9 alone inadequate is oxygen supplemental table to when
+246,531,0.1,mg/kg IV,iv kg mg
+247,531,0.1,mg/kg IV,iv kg mg
+248,531,0.1,mg/kg IV,iv kg mg
+249,531,0.1,mg/kg IV,iv kg mg
+250,531,0.1,mg/kg IV,iv kg mg
+251,531,86.1,Mechanical Ventilation,mechanical ventilation
+252,534,0.5,seconds) time in the CPAPLOW phase. These atypically long Tis are tolerated because of a floating expiratory valve in the ventilator circuit that,a are atypically because circuit cpaplow expiratory floating in long of phase seconds that the these time tis tolerated valve ventilator
+253,538,2.5,mg/kg PO every 12 hours;,12 every hours kg mg po
+254,538,1.25,mg/kg PO every 12 hours;,12 every hours kg mg po
+255,538,0.15,mg/kg PO/IM/IV every 6 hours;,6 every hours im iv kg mg po
+256,549,89.1,Lightning Burns,burns lightning
+257,550,14.2,(57.6),57 6
+258,550,13.7,(56.7),56 7
+259,552,90.1,Cold-­Induced Autoinflammatory and,and autoinflammatory cold induced
+260,554,91.6,"lists preoperative fasting guidelines (e.g., nothing by mouth, or nil",by e fasting g guidelines lists mouth nil nothing or preoperative
+261,559,91.1,Anesthetic Neurotoxicity,anesthetic neurotoxicity
+262,562,1.5,mg,mg
+263,562,0.15,mg/kg,kg mg
+264,562,0.2,mg,mg
+265,562,0.6,mg,mg
+266,562,0.01,mg q2-­4h,4h mg q2
+267,562,0.002,mg/kg/hr,hr kg mg
+268,562,0.01,mg q2-­4h,4h mg q2
+269,562,0.002,mg/kg/hr,hr kg mg
+270,562,0.1,mg/kg q8-­24h,24h kg mg q8
+271,562,0.1,mg/kg q8-­24h,24h kg mg q8
+272,562,0.2,mg/kg q8-­12h,12h kg mg q8
+273,562,2.5,mg TID,mg tid
+274,562,0.05,mg/kg q2-­4h,4h kg mg q2
+275,562,0.1,mg/kg q2-­4h,4h kg mg q2
+276,562,0.3,mg/kg q3-­4h,4h kg mg q3
+277,564,0.8,(sublingual),sublingual
+278,564,93.15,and 93.16).,16 93 and
+279,564,93.4,presents a decision-­making tree to help the physician select the,a decision help making physician presents select the to tree
+280,566,2.5,mg/kg per day divided bid or tid,bid day divided kg mg or per tid
+281,575,0.02,mg/kg over 5 min; may repeat q5-­10 min,10 5 kg may mg min over q5 repeat
+282,575,0.2,"mg over 30 sec; if response is inadequate,",30 if inadequate is mg over response sec
+283,575,0.15,mg/kg bolus followed by infusion of,bolus by followed infusion kg mg of
+284,597,98.3,Thiopurine S-­methyltransferase,methyltransferase s thiopurine
+285,598,98.1,Genetic Counseling,counseling genetic
+286,599,98.2,Principles of Management and,and management of principles
+287,601,99.1,Methods of Chromosome Analysis,analysis chromosome methods of
+288,602,99.6,and 99.7). Oligonucleotides (short DNA segments) encompassing,7 99 and dna encompassing oligonucleotides segments short
+289,603,99.2,Abnormalities of Chromosome Number,abnormalities chromosome number of
+290,604,99.3,Abnormalities of Chromosome,abnormalities chromosome of
+291,606,99.4,Sex Chromosome Aneuploidy,aneuploidy chromosome sex
+292,607,99.5,Mosaicism,mosaicism
+293,608,99.6,Chromosome Instability Syndromes,chromosome instability syndromes
+294,608,99.7,Uniparental Disomy and Imprinting,and disomy imprinting uniparental
+295,610,99.13,and 99.14). Imprinting probably occurs in many different parts of,14 99 and different imprinting in many occurs of parts probably
+296,616,101.1,RAS/MAPK Pathway,mapk pathway ras
+297,617,101.2,Sonic Hedgehog Pathway,hedgehog pathway sonic
+298,618,101.3,Ciliopathies,ciliopathies
+299,619,101.4,Craniosynostoses,craniosynostoses
+300,622,103.1,Major Genetic Approaches to the,approaches genetic major the to
+301,625,104.13,and Fig. 104.2). Elevation of blood ammonia is usually caused,104 2 ammonia and blood caused elevation fig is of usually
+302,627,105.1,Phenylalanine,phenylalanine
+303,629,105.2,Tyrosine,tyrosine
+304,631,105.3,Methionine,methionine
+305,633,105.4,Cysteine and Cystine,and cysteine cystine
+306,633,105.5,Tryptophan,tryptophan
+307,634,105.6,"Isoleucine, Leucine, Valine, and",and isoleucine leucine valine
+308,640,105.7,Glycine,glycine
+309,641,105.8,Serine Deficiency Disorders (Serine,deficiency disorders serine
+310,642,105.8,and 105.10 show the metabolic pathway for the synthesis and,10 105 and for metabolic pathway show synthesis the
+311,642,105.9,Proline,proline
+312,642,105.10,Glutamic Acid,acid glutamic
+313,643,105.11,Disorders of Neurotransmitter,disorders neurotransmitter of
+314,644,105.1,"and Fig. 105.12), but because of the low activity of dihydrofolate reductase in the brain, the amount of BH4 remains insufficient for",105 12 activity amount and because bh4 brain but dihydrofolate fig for in insufficient low of reductase remains the
+315,645,105.12,Urea Cycle and Hyperammonemia,and cycle hyperammonemia urea
+316,648,105.13,Histidine,histidine
+317,649,105.14,Lysine,lysine
+318,649,105.9,and Fig. 105.9).,105 9 and fig
+319,649,611.04,and 611.06).,06 611 and
+320,650,105.15,N-­Acetylaspartic Acid (Canavan,acetylaspartic acid canavan n
+321,651,106.1,Disorders of Mitochondrial Fatty Acid,acid disorders fatty mitochondrial of
+322,654,106.2,Disorders of Very Long Chain,chain disorders long of very
+323,657,106.3,Disorders of Lipoprotein Metabolism,disorders lipoprotein metabolism of
+324,663,106.4,Lipidoses (Lysosomal Storage,lipidoses lysosomal storage
+325,668,1.0,yr,yr
+326,668,2.0,yr,yr
+327,668,2.0,yr,yr
+328,668,2.5,yr,yr
+329,668,2.5,yr,yr
+330,668,3.5,yr,yr
+331,668,4.0,yr,yr
+332,668,4.0,yr,yr
+333,668,4.0,yr,yr
+334,668,4.0,yr,yr
+335,668,4.0,yr,yr
+336,668,4.4,yr,yr
+337,670,106.5,Mucolipidoses,mucolipidoses
+338,670,107.1,Glycogen Storage Diseases,diseases glycogen storage
+339,675,107.2,Defects in Galactose Metabolism,defects galactose in metabolism
+340,676,107.3,Defects in Fructose Metabolism,defects fructose in metabolism
+341,677,107.4,Defects in Intermediary Carbohydrate,carbohydrate defects in intermediary
+342,680,107.5,Defects in Pentose Metabolism,defects in metabolism pentose
+343,680,107.6,Disorders of Glycoprotein,disorders glycoprotein of
+344,681,107.7,Congenital Disorders of Glycosylation,congenital disorders glycosylation of
+345,684,1.5,g/kg/day (up to 3,3 day g kg to up
+346,714,0.3,mg/kg/wk daily or every 12 hr (infants),12 daily every hr infants kg mg or wk
+347,716,117.7,Treatment and Prevention of Fetal,and fetal of prevention treatment
+348,722,119.1,Multiple-­Gestation Pregnancies,gestation multiple pregnancies
+349,723,119.2,Extremely and Very Preterm Infants,and extremely infants preterm very
+350,725,119.3,Moderate and Late Preterm Infants,and infants late moderate preterm
+351,726,119.4,Term and Postterm Infants,and infants postterm term
+352,727,119.5,Follow-­Up of High-­Risk Infants After,after follow high infants of risk up
+353,727,119.10,lists common sequelae of prematurity.,common lists of prematurity sequelae
+354,730,121.2,Hypothermia and Cold Stress,and cold hypothermia stress
+355,730,121.1,Hyperthermia,hyperthermia
+356,730,121.3,Edema,edema
+357,730,121.4,Hypocalcemia,hypocalcemia
+358,730,121.5,Hypermagnesemia,hypermagnesemia
+359,730,122.1,The Cranium,cranium the
+360,731,122.2,Neonatal Traumatic Head Injuries,head injuries neonatal traumatic
+361,731,122.3,Intracranial-­Intraventricular,intracranial intraventricular
+362,733,122.4,Hypoxic-­Ischemic Encephalopathy,encephalopathy hypoxic ischemic
+363,734,122.7,and 122.8). Cerebral edema may develop during the next 24,122 24 8 and cerebral develop during edema may next the
+364,736,122.5,Spine and Spinal Cord,and cord spinal spine
+365,736,122.6,Peripheral Nerve Injuries,injuries nerve peripheral
+366,736,4.6,"per 1,000 live births. Injury to the brachial plexus may cause paralysis of the upper part of the arm with or without paralysis of the forearm",000 1 arm births brachial cause forearm injury live may of or paralysis part per plexus the to upper with without
+367,743,126.1,Patent Ductus Arteriosus,arteriosus ductus patent
+368,750,131.1,Foramen of Morgagni Hernia,foramen hernia morgagni of
+369,750,131.2,Paraesophageal Hernia,hernia paraesophageal
+370,750,131.3,Eventration,eventration
+371,759,137.1,Kernicterus and Therapy of,and kernicterus of therapy
+372,764,0.2,"per 1,000 births, respectively. Clinical signs of FMH vary due to",000 1 births clinical due fmh of per respectively signs to vary
+373,764,11.0,(33%),33
+374,764,10.0,(30%),30
+375,764,10.0,(30%),30
+376,764,8.5,(25%),25
+377,764,8.5,(25%),25
+378,764,7.0,(21%),21
+379,766,138.2,and 139.1). Full-­term infants are therefore considered polycythemic,1 139 and are considered full infants polycythemic term therefore
+380,766,138.2,and 139.1). Full-­term infants are therefore considered polycythemic,1 139 and are considered full infants polycythemic term therefore
+381,770,0.05,mg/kg/dose q3h,dose kg mg q3h
+382,770,0.1,mg/kg/dose q6h for,dose for kg mg q6h
+383,770,0.7,"mg/kg/dose q12h × 2 doses,",2 dose doses kg mg q12h
+384,770,0.04,mg/kg/dose q12h × 2,2 dose kg mg q12h
+385,770,0.03,mg/kg/dose q12h × 2,2 dose kg mg q12h
+386,770,0.02,mg/kg/dose q12h × 2,2 dose kg mg q12h
+387,770,0.01,mg/kg/dose q12h × 2,2 dose kg mg q12h
+388,770,0.01,mg/kg/dose q24h × 1,1 dose kg mg q24h
+389,770,1.5,μg/kg/dose q3h,dose kg q3h μg
+390,775,13.5,(12.5-­14.6),12 14 5 6
+391,775,45.4,(38.3-­53.7),3 38 53 7
+392,775,26.0,(22.6-­29.9),22 29 6 9
+393,775,15.5,(13.2-­18.2),13 18 2
+394,775,10.1,(8.5-­11.9),11 5 8 9
+395,776,148.1,"and 148.5); (3) premature infants have documented immune dysfunction; and (4) premature infants often require prolonged intravenous access, endotracheal intubation, or other invasive procedures that",148 3 4 5 access and documented dysfunction endotracheal have immune infants intravenous intubation invasive often or other premature procedures prolonged require that
+396,779,149.1,Congenital Infections,congenital infections
+397,780,149.2,Perinatal Infections,infections perinatal
+398,782,149.7,provides a summary of laboratory tests that are useful to diagnose specific perinatal infections.,a are diagnose infections laboratory of perinatal provides specific summary tests that to useful
+399,783,8.8,years in Black females and 9.6 years in White females. Almost 25%,25 6 9 almost and black females in white years
+400,787,151.1,Legal Issues,issues legal
+401,788,151.2,Screening Procedures,procedures screening
+402,791,22.5,mg,mg
+403,791,153.6,and 153.7).,153 7 and
+404,792,12.5,μg/24 hr every,24 every hr μg
+405,792,12.5,mg/m2 every,every m2 mg
+406,792,37.5,mg every 6 mo,6 every mg mo
+407,799,6.1,(1.1-­33.83),1 33 83
+408,799,5.8,(1.7-­19.2),1 19 2 7
+409,799,10.7,(3.2-­35.6),2 3 35 6
+410,799,4.6,(1.5-­14.2),1 14 2 5
+411,799,2.1,(0.72-­6.2),0 2 6 72
+412,799,8.6,(1.4-­54.2),1 2 4 54
+413,799,0.85,(0.19-­3.8),0 19 3 8
+414,799,4.6,(0.93-­23.0),0 23 93
+415,799,3.0,(0.88-­10.3),0 10 3 88
+416,799,0.83,(0.08-­8.5),0 08 5 8
+417,799,6.4,(1.3-­30.7),1 3 30 7
+418,799,3.7,(0.93-­14.4),0 14 4 93
+419,799,4.3,(1.1-­17.6),1 17 6
+420,799,24.6,(4.3-­138.7),138 3 4 7
+421,799,6.1,(1.6-­22),1 22 6
+422,799,6.2,(1.1-­34.2),1 2 34
+423,799,3.6,(1.1-­11.7),1 11 7
+424,801,157.1,Alcohol,alcohol
+425,802,157.2,"Tobacco, E-­Cigarettes, and Other",and cigarettes e other tobacco
+426,803,0.5,mg PO in morning for 3 days; increase to,3 days for in increase mg morning po to
+427,803,0.5,"mg PO bid for 4 days, then increase to",4 bid days for increase mg po then to
+428,803,0.5,mg/spray,mg spray
+429,803,157.3,Marijuana,marijuana
+430,803,157.4,Inhalants,inhalants
+431,804,157.5,EVALI,evali
+432,804,157.6,Hallucinogens,hallucinogens
+433,805,157.7,Cocaine,cocaine
+434,805,157.8,Amphetamines,amphetamines
+435,806,157.9,Stimulant Use and Diversion,and diversion stimulant use
+436,806,157.10,Opiates/Opioids,opiates opioids
+437,806,157.11,Synthetic Cannabinoids,cannabinoids synthetic
+438,808,159.1,Amenorrhea,amenorrhea
+439,809,159.2,Abnormal Uterine Bleeding,abnormal bleeding uterine
+440,809,159.3,Dysmenorrhea,dysmenorrhea
+441,810,11.25,mg IM q3mo,im mg q3mo
+442,810,159.4,Premenstrual Syndrome and,and premenstrual syndrome
+443,811,160.1,Contraceptive Use,contraceptive use
+444,812,160.2,Contraceptive Counseling,contraceptive counseling
+445,812,160.3,Long-­Acting Reversible Contraception,acting contraception long reversible
+446,813,160.4,Other Progestin-­Only Methods,methods only other progestin
+447,813,17.5,mcg LNG/day → 7.4,4 7 day lng mcg
+448,813,19.5,mcg LNG/day → 9.8,8 9 day lng mcg
+449,813,4.4,mm,mm
+450,813,3.8,mm diameter,diameter mm
+451,813,4.4,mm diameter,diameter mm
+452,813,3.8,mm diameter,diameter mm
+453,813,160.5,Combined Hormonal Contraceptives,combined contraceptives hormonal
+454,815,160.6,Emergency Contraception,contraception emergency
+455,816,160.7,Condoms,condoms
+456,816,160.8,Other Barrier Methods,barrier methods other
+457,816,160.9,Other Contraceptive Methods,contraceptive methods other
+458,818,161.1,Abortion,abortion
+459,822,11.7,10–14 83.1,1 10 14 83
+460,822,114.9,45–54 73.7,45 54 7 73
+461,822,46.9,55–64 20.1,1 20 55 64
+462,822,7.9,65+ 2.5,2 5 65
+463,822,0.0,10–14 0.2,0 10 14 2
+464,832,165.1,Severe Combined Immunodeficiencies,combined immunodeficiencies severe
+465,834,165.2,Combined Immunodeficiencies,combined immunodeficiencies
+466,839,165.3,Thymic Disorders,disorders thymic
+467,839,165.4,Inborn Errors of Immunity with a,a errors immunity inborn of with
+468,840,166.1,Agammaglobulinemia,agammaglobulinemia
+469,841,166.2,"Hypogammaglobulinemia, Transient",hypogammaglobulinemia transient
+470,843,166.3,Class Switch Defects,class defects switch
+471,844,166.4,Isotype Defects,defects isotype
+472,844,166.5,Transient Hypogammaglobulinemia of,hypogammaglobulinemia of transient
+473,846,6.5,× 108 cells/kg,108 cells kg
+474,846,3.2,× 108 cells/kg,108 cells kg
+475,846,3.3,× 108 cells/kg,108 cells kg
+476,846,1.8,× 108 cells/kg,108 cells kg
+477,846,1.8,× 107 cells/kg,107 cells kg
+478,846,1.8,× 109 cells/kg,109 cells kg
+479,859,173.1,"Complement Components, Pathways,",complement components pathways
+480,859,173.1,"and 173.2). It represents an essential part of immunity, having a",173 2 a an and essential having immunity it of part represents
+481,860,173.2,Complement Pathway Deficiencies,complement deficiencies pathway
+482,863,174.1,Tregopathies,tregopathies
+483,864,174.2,Hemophagocytic Lymphohistiocytosis,hemophagocytic lymphohistiocytosis
+484,864,174.3,Epstein-­Barr Virus Susceptibility,barr epstein susceptibility virus
+485,865,174.4,Chronic Active Epstein-­Barr Virus,active barr chronic epstein virus
+486,866,174.6,Autoimmune Cytopenias,autoimmune cytopenias
+487,866,174.5,Very Early Onset Inflammatory Bowel,bowel early inflammatory onset very
+488,867,174.7,Autoimmune Lymphoproliferative,autoimmune lymphoproliferative
+489,868,174.8,Nuclear Factor-­κB Pathway Defects,defects factor nuclear pathway κb
+490,869,175.1,Predisposition to Fungal Infections,fungal infections predisposition to
+491,870,175.2,Innate Immunity Defects with,defects immunity innate with
+492,871,175.3,Susceptibility to Invasive Bacterial,bacterial invasive susceptibility to
+493,872,175.4,Mendelian Susceptibility to,mendelian susceptibility to
+494,892,184.1,"and Fig. 184.2). Occupational risks for rhinitis include exposure to allergens (grain dust, insects, latex, enzymes) and irritants",184 2 allergens and dust enzymes exposure fig for grain include insects irritants latex occupational rhinitis risks to
+495,893,2.5,"mg, 5 mg",5 mg
+496,893,0.5,mg/mL,mg ml
+497,894,0.5,mg/mL,mg ml
+498,894,0.5,mg/mL,mg ml
+499,904,0.25,"mg, 0.5 mg, 1 mg",0 1 5 mg
+500,904,0.5,mg,mg
+501,904,1.0,mg,mg
+502,904,2.0,mg,mg
+503,906,1.25,"mg/3 mL, 0.63 mg/3 mL)",0 3 63 mg ml
+504,906,0.63,"mg/3 mL, 1.25 mg/3 mL)",1 25 3 mg ml
+505,906,0.5,mg/2.5 mL; MDI 18 μg/inhalation),18 2 5 inhalation mdi mg ml μg
+506,906,0.3,"mg/kg up to 10 mg every 1-­4 hr as needed, or",1 10 4 as every hr kg mg needed or to up
+507,906,0.075,mg/kg (minimum 1.25 mg) every 20 min for 3 Levalbuterol 0.63 mg is equivalent to 1.25 mg,0 1 20 25 3 63 equivalent every for is kg levalbuterol mg min minimum to
+508,919,189.1,Hereditary Angioedema,angioedema hereditary
+509,922,0.01,"mg/kg, up to 0.3 mg IM in lateral thigh",0 3 im in kg lateral mg thigh to up
+510,922,0.1,mg for 7.5-­13 kg,13 5 7 for kg mg
+511,922,0.15,mg for <25 kg,25 for kg mg
+512,922,0.3,mg for 25 kg or more,25 for kg mg more or
+513,922,0.25,"mg/kg, up to 10 mg PO",10 kg mg po to up
+514,922,0.01,"mg/kg, up to 0.5 mg IM in lateral thigh",0 5 im in kg lateral mg thigh to up
+515,922,0.1,mg for 7.5-­13 kg,13 5 7 for kg mg
+516,922,0.15,mg for <25 kg,25 for kg mg
+517,922,0.3,mg for 25 kg or more,25 for kg mg more or
+518,922,0.01,"mL/kg/dose of 1:1,000 (vial) solution, up",000 1 dose kg ml of solution up vial
+519,922,0.25,"mg/kg, up to 10 mg PO",10 kg mg po to up
+520,922,1.25,"mg/kg, up to 50 mg PO, IM, or IV",50 im iv kg mg or po to up
+521,922,0.83,mg/mL (3 mL) via mask with O2,3 mask mg ml o2 via with
+522,927,192.1,Non-­IgE Gastrointestinal Food Allergy,allergy food gastrointestinal ige non
+523,932,0.01,M,m
+524,932,0.01,M,m
+525,936,0.125,mg/kg PO daily,daily kg mg po
+526,936,0.8,mg/kg SC once weekly (max,kg max mg once sc weekly
+527,944,0.8,mg/kg SC weekly or 0.4 mg/kg SC twice,0 4 kg mg or sc twice weekly
+528,944,0.125,mg/kg PO once daily (maximum dose Same as above,above as daily dose kg maximum mg once po same
+529,944,2.2,mg/kg/dose SC weekly (maximum dose,dose kg maximum mg sc weekly
+530,952,199.1,Neonatal Lupus,lupus neonatal
+531,953,200.2,and 200.3). Certain myositis-­specific antibodies are associated,200 3 and antibodies are associated certain myositis specific
+532,958,2.4,mg/dL,dl mg
+533,960,201.5,"and 201.6). RP is treated with cold avoidance, and pharmacologic interventions are reserved for severe disease. Calcium channel",201 6 and are avoidance calcium channel cold disease for interventions is pharmacologic reserved rp severe treated with
+534,963,12.5,years) showing evidence of,evidence of showing years
+535,973,210.1,Henoch-­Schönlein Purpura,henoch purpura schönlein
+536,976,210.2,Takayasu Arteritis,arteritis takayasu
+537,977,210.3,Polyarteritis Nodosa and Cutaneous,and cutaneous nodosa polyarteritis
+538,978,210.4,Antineutrophilic Cytoplasmic,antineutrophilic cytoplasmic
+539,979,210.11,lists the classification criteria for pediatric-­onset GPA.,classification criteria for gpa lists onset pediatric the
+540,980,210.5,Other Vasculitis Syndromes:,other syndromes vasculitis
+541,982,211.1,Growing Pains (Benign Limb Pain of,benign growing limb of pain pains
+542,982,211.2,Small Fiber Polyneuropathy,fiber polyneuropathy small
+543,982,211.3,Diffuse Amplified Pain Syndromes,amplified diffuse pain syndromes
+544,983,211.4,Complex Regional Pain Syndrome,complex pain regional syndrome
+545,983,211.5,Erythromelalgia,erythromelalgia
+546,985,212.1,Chronic Fatigue Syndrome,chronic fatigue syndrome
+547,1003,215.1,International Immunization Practices,immunization international practices
+548,1012,0.5,mL (720 ELISA,720 elisa ml
+549,1012,1.0,"mL (1,440",1 440 ml
+550,1012,0.5,mL (25 U),25 ml u
+551,1012,1.0,mL (50 U),50 ml u
+552,1012,0.5,mL (20 μg,20 ml μg
+553,1012,0.5,mL (10 μg,10 ml μg
+554,1012,0.5,mL (10 μg,10 ml μg
+555,1012,0.5,mL (5 μg,5 ml μg
+556,1012,1.0,mL (720 ELU,720 elu ml
+557,1012,1.0,mL (720 ELU,720 elu ml
+558,1012,0.25,mL,ml
+559,1012,0.5,mL,ml
+560,1012,0.5,mL,ml
+561,1012,0.5,mL,ml
+562,1012,0.5,mL,ml
+563,1012,0.5,mL,ml
+564,1012,0.5,mL,ml
+565,1012,0.5,mL,ml
+566,1013,0.5,mL,ml
+567,1015,0.5,mL,ml
+568,1015,0.5,mL10,ml10
+569,1017,2.2,mg/kg daily (max: Known safety,daily kg known max mg safety
+570,1017,62.5,mg,mg
+571,1017,6.5,mg/kg of salt (5,5 kg mg of salt
+572,1017,26.3,mg salt (15,15 mg salt
+573,1017,0.8,mg/kg of salt,kg mg of salt
+574,1017,26.3,mg salt,mg salt
+575,1017,0.8,mg/kg of salt,kg mg of salt
+576,1030,223.1,Infections Occurring with Primary,infections occurring primary with
+577,1031,223.2,Infections Occurring with Acquired,acquired infections occurring with
+578,1033,223.3,Prevention of Infection in,in infection of prevention
+579,1039,12.5,mg/kg) IV q8h for 5-­14 days,14 5 days for iv kg mg q8h
+580,1039,12.5,mg/kg) IV q8h for 5-­14 days; not to exceed 2.5 g,14 2 5 days exceed for g iv kg mg not q8h to
+581,1042,2.4,million units/dose),dose million units
+582,1042,4.8,million units/dose),dose million units
+583,1042,1.9,mEq sodium. Interferes with platelet,interferes meq platelet sodium with
+584,1042,1.9,mEq sodium.,meq sodium
+585,1047,227.1,Staphylococcus aureus,aureus staphylococcus
+586,1049,227.2,Toxic Shock Syndrome,shock syndrome toxic
+587,1050,227.3,Coagulase-­Negative Staphylococci,coagulase negative staphylococci
+588,1056,229.1,Rheumatic Fever,fever rheumatic
+589,1077,37.8,39.2,2 39
+590,1079,240.1,and Chapter 215). Available combination vaccines include Pentacel,215 and available chapter combination include pentacel vaccines
+591,1083,244.1,Nontyphoidal Salmonellosis,nontyphoidal salmonellosis
+592,1086,244.2,Enteric Fever (Typhoid and,and enteric fever typhoid
+593,1094,0.8,"μm wide), non–spore-­forming rods (0.5-­5 μm long) that usually",0 5 forming long non rods spore that usually wide μm
+594,1096,249.1,Yersinia enterocolitica,enterocolitica yersinia
+595,1096,1.97,"per 100,000 population (635% increase compared to 2015, and",000 100 2015 635 and compared increase per population to
+596,1097,249.2,Yersinia pseudotuberculosis,pseudotuberculosis yersinia
+597,1097,249.3,Plague (Yersinia pestis),pestis plague yersinia
+598,1098,7.5,"mg/kg IM or intravenously [IV] every 24 hours; adults, 5 mg/",24 5 adults every hours im intravenously iv kg mg or
+599,1098,250.1,Aeromonas,aeromonas
+600,1099,250.2,Plesiomonas shigelloides,plesiomonas shigelloides
+601,1100,251.1,Pseudomonas aeruginosa,aeruginosa pseudomonas
+602,1101,251.2,Burkholderia cepacia Complex,burkholderia cepacia complex
+603,1102,251.3,Stenotrophomonas,stenotrophomonas
+604,1103,252.3,displays therapeutic options for treatment of tularemia and,and displays for of options therapeutic treatment tularemia
+605,1105,2.4,g/day) in 2 divided doses,2 day divided doses g in
+606,1106,255.1,Cat Scratch Disease (Bartonella,bartonella cat disease scratch
+607,1107,255.2,Bartonellosis (Bartonella bacilliformis),bacilliformis bartonella bartonellosis
+608,1108,255.3,Trench Fever (Bartonella quintana),bartonella fever quintana trench
+609,1108,255.4,Bacillary Angiomatosis and Bacillary,and angiomatosis bacillary
+610,1116,1.5,mg/day PO or 800 mg/day IV. The adult dosage of ciprofloxacin,800 adult ciprofloxacin day dosage iv mg of or po the
+611,1126,261.8,and 261.9). Treatment regimens should prioritize administering,261 9 administering and prioritize regimens should treatment
+612,1126,2.5,g,g
+613,1138,265.1,Yaws (Treponema pertenue),pertenue treponema yaws
+614,1139,265.2,Bejel (Endemic Syphilis; Treponema,bejel endemic syphilis treponema
+615,1139,265.3,Pinta (Treponema carateum),carateum pinta treponema
+616,1143,4.4,mg/kg/day in 2 divided doses,2 day divided doses in kg mg
+617,1148,272.1,Trachoma,trachoma
+618,1148,272.2,Genital Tract Infections,genital infections tract
+619,1148,272.3,Conjunctivitis and Pneumonia in,and conjunctivitis in pneumonia
+620,1149,272.4,Lymphogranuloma Venereum,lymphogranuloma venereum
+621,1150,274.1,Rocky Mountain Spotted Fever,fever mountain rocky spotted
+622,1153,274.2,Mediterranean Spotted Fever or,fever mediterranean or spotted
+623,1154,274.3,Rickettsialpox (Rickettsia akari) and,akari and rickettsia rickettsialpox
+624,1155,276.1,Murine (Endemic or Flea-­Borne),borne endemic flea murine or
+625,1155,276.2,Epidemic (Louse-­Borne) Typhus,borne epidemic louse typhus
+626,1159,279.1,and 279.2).,2 279 and
+627,1160,2.5,mg/kg/dose bid,bid dose kg mg
+628,1160,1.5,mg/kg/day,day kg mg
+629,1162,280.1,Neonatal Infections,infections neonatal
+630,1162,280.2,Infections in Immunocompetent,immunocompetent in infections
+631,1163,1.5,mg/kg/day,day kg mg
+632,1163,280.3,Infections in Immunocompromised,immunocompromised in infections
+633,1163,1.5,mg/kg/day,day kg mg
+634,1166,283.1,Allergic Disease (Hypersensitivity,allergic disease hypersensitivity
+635,1166,283.2,Saprophytic (Noninvasive) Syndromes,noninvasive saprophytic syndromes
+636,1166,283.3,Invasive Disease,disease invasive
+637,1183,0.02,mL/kg,kg ml
+638,1183,0.06,mL/kg,kg ml
+639,1183,0.06,mL/kg,kg ml
+640,1183,0.50,mL/kg,kg ml
+641,1183,0.5,mL/kg (maximum dose in both cases is 15 mL/kg) intramuscularly.,15 both cases dose in intramuscularly is kg maximum ml
+642,1207,2.4,years following infectious mononucleosis. EBV is associated with,associated ebv following infectious is mononucleosis with years
+643,1222,311.1,COVID-­19,19 covid
+644,1223,208.4,"in Chapter 208). As of late 2023, there have been >9500 cases and",2023 208 9500 and as been cases chapter have in late of there
+645,1227,1.22,(0.70-­2.15),0 15 2 70
+646,1227,0.94,(0.83-­1.07),0 07 1 83
+647,1227,1.23,(1.16-­1.31)†,1 16 31
+648,1227,1.17,(1.12-­1.23)†,1 12 23
+649,1227,1.11,(1.08-­1.13)†,08 1 13
+650,1227,1.04,(1.02-­1.06)†,02 06 1
+651,1227,1.13,(1.05-­1.22)†,05 1 22
+652,1227,1.08,(1.05-­1.12)†,05 1 12
+653,1227,1.03,(1.01-­1.04)†,01 04 1
+654,1227,1.16,(1.10-­1.21)†,1 10 21
+655,1227,1.06,(1.04-­1.07)†,04 07 1
+656,1227,1.00,(0.99-­1.01),0 01 1 99
+657,1227,1.08,(0.90-­1.29),0 1 29 90
+658,1227,1.03,(0.99-­1.08),0 08 1 99
+659,1227,1.00,(0.98-­1.02),0 02 1 98
+660,1227,1.15,(1.10-­1.20)†,1 10 20
+661,1227,1.02,(1.00-­1.04)†,00 04 1
+662,1227,0.97,(0.95-­0.99)†,0 95 99
+663,1227,0.99,(0.93-­1.06),0 06 1 93
+664,1227,0.89,(0.86-­0.92)†,0 86 92
+665,1227,0.91,(0.89-­0.94)†,0 89 94
+666,1227,1.07,(1.04-­1.10)†,04 1 10
+667,1227,0.93,(0.92-­0.94)†,0 92 94
+668,1227,0.88,(0.87-­0.89)†,0 87 89
+669,1227,1.03,(0.97-­1.10),0 1 10 97
+670,1227,0.92,(0.90-­0.95)†,0 90 95
+671,1227,0.89,(0.86-­0.91)†,0 86 91
+672,1227,2.03,(1.61-­2.56)†,1 2 56 61
+673,1227,2.39,(1.57–3.65)†,1 3 57 65
+674,1227,2.84,(2.39-­3.37)†,2 3 37 39
+675,1227,1.66,(1.48-­1.88)†,1 48 88
+676,1227,2.69,(1.73-­4.19)†,1 19 4 73
+677,1227,1.52,(1.22-­1.91)†,1 22 91
+678,1227,1.52,(1.07–2.14)†,07 1 14 2
+679,1227,1.38,(1.16–1.63)†,1 16 63
+680,1227,1.27,(1.15–1.40)†,1 15 40
+681,1227,1.01,(0.57-­1.78),0 1 57 78
+682,1227,1.31,(1.13-­1.53)†,1 13 53
+683,1227,1.20,(1.09–1.33)†,09 1 33
+684,1227,1.47,(1.20-­1.80)†,1 20 80
+685,1227,1.28,(1.15-­1.43)†,1 15 43
+686,1227,1.10,(1.03–1.19)†,03 1 19
+687,1227,1.24,(0.85-­1.81),0 1 81 85
+688,1227,1.14,(1.02-­1.28)†,02 1 28
+689,1227,1.18,(1.11-­1.24)†,1 11 24
+690,1227,1.44,(1.22-­1.70)†,1 22 70
+691,1227,1.23,(1.14-­1.32)†,1 14 32
+692,1227,1.12,(1.08-­1.17)†,08 1 17
+693,1227,1.66,(0.85-­3.23),0 23 3 85
+694,1227,1.14,(0.79-­1.64),0 1 64 79
+695,1227,1.18,(0.93-­1.48),0 1 48 93
+696,1227,0.86,(0.54-­1.36),0 1 36 54
+697,1227,1.04,(0.83-­1.31),0 1 31 83
+698,1227,1.12,(0.96-­1.31),0 1 31 96
+699,1227,1.12,(1.07-­1.18)†,07 1 18
+700,1227,1.02,(1.00-­1.05)†,00 05 1
+701,1227,0.96,(0.94-­0.98)†,0 94 98
+702,1227,0.87,(0.77-­0.98)†,0 77 98
+703,1227,0.86,(0.82-­0.91)†,0 82 91
+704,1227,0.96,(0.93-­0.99)†,0 93 99
+705,1227,0.98,(0.93-­1.04),0 04 1 93
+706,1227,0.96,(0.93-­0.98)†,0 93 98
+707,1227,0.91,(0.89-­0.93)†,0 89 93
+708,1227,0.91,(0.83-­1.00),0 00 1 83
+709,1227,0.86,(0.83-­0.88)†,0 83 88
+710,1227,0.84,(0.82-­0.85)†,0 82 85
+711,1227,0.82,(0.62-­1.08),0 08 1 62
+712,1227,0.73,(0.69-­0.77)†,0 69 77
+713,1227,0.80,(0.77-­0.83)†,0 77 83
+714,1232,314.1,Eastern Equine Encephalitis,eastern encephalitis equine
+715,1232,314.2,Western Equine Encephalitis,encephalitis equine western
+716,1233,314.4,West Nile Encephalitis,encephalitis nile west
+717,1233,314.3,St. Louis Encephalitis,encephalitis louis st
+718,1233,314.5,Powassan Encephalitis,encephalitis powassan
+719,1233,314.6,La Crosse and California Encephalitis,and california crosse encephalitis la
+720,1233,314.7,Colorado Tick Fever,colorado fever tick
+721,1233,314.8,Chikungunya Fever,chikungunya fever
+722,1233,314.4,Algorithm showing,algorithm showing
+723,1234,314.9,Venezuelan Equine Encephalitis,encephalitis equine venezuelan
+724,1234,314.10,Japanese Encephalitis,encephalitis japanese
+725,1234,314.11,Tick-­Borne Encephalitis,borne encephalitis tick
+726,1235,314.12,Zika Virus,virus zika
+727,1250,322.7,"for definitions of low and high risk. *For higher-­risk infants, additional virologic diagnostic testing should be done at birth and 2-­6 wk after",2 6 additional after and at be birth definitions diagnostic done for high higher infants low of risk should testing virologic wk
+728,1253,32.5,to <40 kg: 400 mg qd,40 400 kg mg qd to
+729,1253,0.58,m2 to 0.83 m2: 200 mg,0 200 83 m2 mg to
+730,1253,0.84,m2 to 1.16 m2: 300 mg,1 16 300 m2 mg to
+731,1256,1.5,mg/kg/dose qd,dose kg mg qd
+732,1258,7.5,mg/kg chloroquine phosphate),chloroquine kg mg phosphate
+733,1263,7.4,yr,yr
+734,1265,1.5,"mg/kg/day IV in 2 divided doses × 3 days, 1.5 mg/kg/day IV in 2 divided doses × 3 days,",1 2 3 5 day days divided doses in iv kg mg
+735,1265,1.5,"mg/kg intrathecally daily × 2 days, then 1",1 2 daily days intrathecally kg mg then
+736,1265,1.5,"mg/kg intrathecally daily × 2 days, then 1 mg/",1 2 daily days intrathecally kg mg then
+737,1266,0.6,mg/kg/day IV in 4 divided doses × 4 days,4 day days divided doses in iv kg mg
+738,1266,0.6,mg/kg/day IV in 4 divided doses × 4 days,4 day days divided doses in iv kg mg
+739,1270,8.3,mg base/kg (10 mg salt/kg) PO tid × 3-­7,10 3 7 base kg mg po salt tid
+740,1270,6.25,mg/kg PO qid × 7 days,7 days kg mg po qid
+741,1270,0.5,mg/kg/day PO × 14 days,14 day days kg mg po
+742,1270,8.3,mg base/kg (10 mg salt/kg) PO tid × 3-­7 days58,10 3 7 base days58 kg mg po salt tid
+743,1270,6.25,mg/kg PO qid × 7 days,7 days kg mg po qid
+744,1270,0.5,mg/kg/day PO × 14 days,14 day days kg mg po
+745,1270,0.5,mg/kg/day PO × 14 days,14 day days kg mg po
+746,1270,0.5,mg/kg/day PO × 14 days,14 day days kg mg po
+747,1270,0.5,mg/kg/day PO × 14 days,14 day days kg mg po
+748,1270,2.4,"mg/kg/dose IV × 3 days, at 0, 12, and 24 hr",0 12 24 3 and at days dose hr iv kg mg
+749,1270,2.4,"mg/kg/dose IV × 3 days, at 0, 12, and 24 hr",0 12 24 3 and at days dose hr iv kg mg
+750,1271,6.25,mg/kg PO qid × 7 days,7 days kg mg po qid
+751,1271,0.6,mg base/kg/day PO × 14 days,14 base day days kg mg po
+752,1271,0.5,mg/kg base (max 30 mg) daily beginning 1-­2,1 2 30 base beginning daily kg max mg
+753,1272,0.3,mg/kg base PO (max 30 mg) daily × 21 days,21 30 base daily days kg max mg po
+754,1272,0.3,mg/kg base PO daily (max 30 mg) × 21 days,21 30 base daily days kg max mg po
+755,1273,1.5,g PO bid is a standard dose for a 100-­lb,100 a bid dose for g is lb po standard
+756,1273,1.5,g PO bid is a standard dose for a 100-­lb,100 a bid dose for g is lb po standard
+757,1277,328.1,Giardia duodenalis,duodenalis giardia
+758,1278,328.2,Balantidiasis,balantidiasis
+759,1279,7.5,mg/kg body weight [maximum 400 mg/dose] bid PO) is usually,400 bid body dose is kg maximum mg po usually weight
+760,1291,0.5,mg base/kg PO qd × 14 days,14 base days kg mg po qd
+761,1291,0.5,mg base/kg PO qd × 14 days,14 base days kg mg po qd
+762,1292,334.3,for options and dosing),and dosing for options
+763,1292,334.3,for options and dosing),and dosing for options
+764,1293,0.5,mg/kg base (0.8 mg/kg salt),0 8 base kg mg salt
+765,1293,0.5,mg/kg base (0.8 mg/kg salt),0 8 base kg mg salt
+766,1302,4.1,"million disability-­adjusted life-­years, possibly leading all neglected",adjusted all disability leading life million neglected possibly years
+767,1303,338.1,Cutaneous Larva Migrans,cutaneous larva migrans
+768,1304,337.1,in Chapter 337).,337 chapter in
+769,1310,348.1,summarizes the key features of tapeworms that affect children.,affect children features key of summarizes tapeworms that the
+770,1310,0.5,× 1-­2 × 0.1 cm in size. Molecular methods can distinguish T. saginata from T. asiatica. Antigen detection tests are increasingly available.,0 1 2 antigen are asiatica available can cm detection distinguish from in increasingly methods molecular saginata size t tests
+771,1315,352.1,and 352.4).,352 4 and
+772,1315,0.5,L. Disorders that interfere with absorption in the small bowel tend,absorption bowel disorders in interfere l small tend that the with
+773,1316,0.1,mg/kg/dose or 3 mg/m2/dose,3 dose kg m2 mg or
+774,1317,12.5,mg increments,increments mg
+775,1317,0.25,mg/kg/day PO in 1-­3 divided,1 3 day divided in kg mg po
+776,1317,0.5,"to 1 mcg/kg subQ once daily,",1 daily kg mcg once subq to
+777,1320,4.5,mo in utero,in mo utero
+778,1320,5.5,mo in utero,in mo utero
+779,1320,7.5,mo,mo
+780,1320,6.5,mo,mo
+781,1320,4.5,mo in utero,in mo utero
+782,1320,4.5,mo in utero,in mo utero
+783,1325,13.6,"mg fluoride, respectively. Fluoride varnish should be administered twice a year for preschool children at moderate caries risk and",a administered and at be caries children fluoride for mg moderate preschool respectively risk should twice varnish year
+784,1330,364.1,Common Clinical Manifestations and,and clinical common manifestations
+785,1330,365.1,Esophageal Atresia and,and atresia esophageal
+786,1331,365.2,Laryngotracheoesophageal Clefts,clefts laryngotracheoesophageal
+787,1331,365.3,Congenital Esophageal Stenosis,congenital esophageal stenosis
+788,1335,369.1,Complications of Gastroesophageal,complications gastroesophageal of
+789,1338,373.1,Foreign Bodies in the Esophagus,bodies esophagus foreign in the
+790,1338,373.2,Caustic Ingestions,caustic ingestions
+791,1340,375.1,Hypertrophic Pyloric Stenosis,hypertrophic pyloric stenosis
+792,1341,375.2,Congenital Gastric Outlet Obstruction,congenital gastric obstruction outlet
+793,1341,375.3,Gastric Duplication,duplication gastric
+794,1342,375.4,Gastric Volvulus,gastric volvulus
+795,1342,375.5,Hypertrophic Gastropathy,gastropathy hypertrophic
+796,1342,376.1,Duodenal Obstruction,duodenal obstruction
+797,1343,376.2,Jejunal and Ileal Atresia and,and atresia ileal jejunal
+798,1343,376.3,Malrotation,malrotation
+799,1344,377.1,Intestinal Duplication,duplication intestinal
+800,1344,377.2,Meckel Diverticulum and Other,and diverticulum meckel other
+801,1345,378.1,Chronic Intestinal Pseudoobstruction,chronic intestinal pseudoobstruction
+802,1346,378.1,Chronic Intestinal Pseudoobstruction,chronic intestinal pseudoobstruction
+803,1348,378.2,Mitochondrial Neurogastrointestinal,mitochondrial neurogastrointestinal
+804,1348,378.3,Encopresis and Functional,and encopresis functional
+805,1349,1.1,Absent neurons,absent neurons
+806,1349,1.2,Decreased numbers of neurons,decreased neurons numbers of
+807,1349,1.3,Increased numbers of neurons,increased neurons numbers of
+808,1349,1.4,Degenerative neuropathy§,degenerative neuropathy
+809,1349,1.5,Inflammatory neuropathies,inflammatory neuropathies
+810,1349,1.6,Abnormal content in neurons,abnormal content in neurons
+811,1349,1.7,Abnormal neurochemical coding**,abnormal coding neurochemical
+812,1349,1.8,Relative immaturity of neurons,immaturity neurons of relative
+813,1349,1.9,Abnormal enteric glia,abnormal enteric glia
+814,1349,2.1,Muscularis propria malformations††,malformations muscularis propria
+815,1349,2.2,Muscle cell degeneration,cell degeneration muscle
+816,1349,2.3,Muscle hyperplasia/hypertrophy,hyperplasia hypertrophy muscle
+817,1349,2.4,Abnormal content in myocytes,abnormal content in myocytes
+818,1349,2.5,Abnormal supportive tissue,abnormal supportive tissue
+819,1349,3.1,Abnormal ICC networks†††,abnormal icc networks
+820,1349,1.5,g/kg body weight/day,body day g kg weight
+821,1349,0.7,g/kg body weight/day,body day g kg weight
+822,1350,378.4,Congenital Aganglionic Megacolon,aganglionic congenital megacolon
+823,1351,378.7,Megacystis-­microcolon-­intestinal hypoperistalsis syndrome. Single frontal view of newborn female reveals the microcolon,female frontal hypoperistalsis intestinal megacystis microcolon newborn of reveals single syndrome the view
+824,1351,378.5,Intestinal Neuronal Dysplasia,dysplasia intestinal neuronal
+825,1352,378.6,Superior Mesenteric Artery Syndrome,artery mesenteric superior syndrome
+826,1352,379.1,Ileus,ileus
+827,1352,379.2,Adhesions,adhesions
+828,1352,379.3,Intussusception,intussusception
+829,1353,379.4,Closed-­Loop Obstructions,closed loop obstructions
+830,1353,380.1,Foreign Bodies in the Stomach and,and bodies foreign in stomach the
+831,1353,379.4,Closed-­Loop Obstructions,closed loop obstructions
+832,1353,380.1,Foreign Bodies in the Stomach and,and bodies foreign in stomach the
+833,1354,380.2,Bezoars,bezoars
+834,1356,381.1,Zollinger-­Ellison Syndrome,ellison syndrome zollinger
+835,1357,382.1,Chronic Ulcerative Colitis,chronic colitis ulcerative
+836,1358,6.75,g/day). Sulfasalazine and the 5-­ASA preparations effectively treat,5 and asa day effectively g preparations sulfasalazine the treat
+837,1359,382.2,"Crohn Disease (Regional Enteritis,",crohn disease enteritis regional
+838,1363,382.3,Very Early Onset Inflammatory Bowel,bowel early inflammatory onset very
+839,1367,385.1,Evaluation of Children with Suspected,children evaluation of suspected with
+840,1370,385.2,Other Malabsorptive Syndromes,malabsorptive other syndromes
+841,1372,385.4,and 385.5). Magnetic resonance lymphangiography may identify,385 5 and identify lymphangiography magnetic may resonance
+842,1372,385.3,Intestinal Infections and Infestations,and infections infestations intestinal
+843,1373,385.4,Immunodeficiency Disorders,disorders immunodeficiency
+844,1374,385.6,Short Bowel Syndrome,bowel short syndrome
+845,1374,385.7,Chronic Malnutrition,chronic malnutrition
+846,1375,385.8,Enzyme Deficiencies,deficiencies enzyme
+847,1375,0.5,"g/kg of glucose or galactose; if necessary, a second test can be performed using 2 g/kg. Breath hydrogen will rise more than 20 ppm. Biopsy",2 20 a be biopsy breath can g galactose glucose hydrogen if kg more necessary of or performed ppm rise second test than using will
+848,1376,385.9,Liver and Biliary Disorders Causing,and biliary causing disorders liver
+849,1377,385.10,Rare Inborn Defects Causing,causing defects inborn rare
+850,1388,387.10,outline a clinical evaluation plan and management strategy for,a and clinical evaluation for management outline plan strategy
+851,1390,387.1,Traveler’s Diarrhea,diarrhea s traveler
+852,1394,388.1,Diarrhea from Neuroendocrine,diarrhea from neuroendocrine
+853,1396,389.2,Biopsychosocial model,biopsychosocial model
+854,1397,389.11,and 389.12). Management of symptoms may include dietary,12 389 and dietary include management may of symptoms
+855,1404,392.1,Anorectal Malformations,anorectal malformations
+856,1406,392.2,Anal Fissure,anal fissure
+857,1406,392.3,Perianal Abscess and Fistula,abscess and fistula perianal
+858,1407,392.4,Hemorrhoids,hemorrhoids
+859,1407,392.5,Rectal Mucosal Prolapse,mucosal prolapse rectal
+860,1414,395.1,Pancreatic Anatomic Abnormalities,abnormalities anatomic pancreatic
+861,1415,395.2,Pancreatic Physiology,pancreatic physiology
+862,1416,399.1,Acute Pancreatitis,acute pancreatitis
+863,1418,399.2,Acute Recurrent and Chronic,acute and chronic recurrent
+864,1422,1.5,to 5.5 cm (average: 3 cm) in infants to 4 to 8 cm in adolescents;,3 4 5 8 adolescents average cm in infants to
+865,1424,403.1,Evaluation of Patients with Possible,evaluation of patients possible with
+866,1425,404.1,Neonatal Cholestasis,cholestasis neonatal
+867,1428,404.2,Cholestasis in the Older Child,child cholestasis in older the
+868,1428,405.1,Inherited Deficient Conjugation of,conjugation deficient inherited of
+869,1428,404.2,Cholestasis in the Older Child,child cholestasis in older the
+870,1428,405.1,Inherited Deficient Conjugation of,conjugation deficient inherited of
+871,1430,405.2,Wilson Disease,disease wilson
+872,1431,405.3,Indian Childhood Cirrhosis,childhood cirrhosis indian
+873,1431,405.4,Neonatal Hemochromatosis,hemochromatosis neonatal
+874,1431,405.5,Miscellaneous Metabolic Diseases of,diseases metabolic miscellaneous of
+875,1433,0.1,mL/kg,kg ml
+876,1433,0.2,mL/kg,kg ml
+877,1433,0.2,mL/kg (repeat every 2 mo),2 every kg ml mo repeat
+878,1433,0.1,mL/kg,kg ml
+879,1437,0.5,(1),1
+880,1440,12.7,years.,years
+881,1442,408.1,Nonalcoholic Fatty Liver Disease,disease fatty liver nonalcoholic
+882,1443,1.73,m2,m2
+883,1458,418.1,Chylous Ascites,ascites chylous
+884,1459,419.1,Acute Primary Peritonitis,acute peritonitis primary
+885,1459,419.2,Acute Secondary Peritonitis,acute peritonitis secondary
+886,1459,419.3,Acute Secondary Localized Peritonitis,acute localized peritonitis secondary
+887,1459,420.1,Incisional Hernia,hernia incisional
+888,1467,422.1,Extrapulmonary Diseases with,diseases extrapulmonary with
+889,1472,423.1,Sudden Unexpected Postnatal,postnatal sudden unexpected
+890,1476,426.1,Nasal Foreign Bodies,bodies foreign nasal
+891,1476,426.2,Epistaxis,epistaxis
+892,1483,1.2,million units,million units
+893,1485,432.1,and 432.2). Deep neck infections can be accurately identified and,2 432 accurately and be can deep identified infections neck
+894,1485,432.1,and 432.2). Deep neck infections can be accurately identified and,2 432 accurately and be can deep identified infections neck
+895,1487,433.1,Infectious Upper Airway Obstruction,airway infectious obstruction upper
+896,1488,433.2,Bacterial Tracheitis,bacterial tracheitis
+897,1489,434.1,Laryngomalacia,laryngomalacia
+898,1489,434.2,Congenital Subglottic Stenosis,congenital stenosis subglottic
+899,1489,434.3,Vocal Cord Paralysis,cord paralysis vocal
+900,1490,434.4,Congenital Laryngeal Webs and,and congenital laryngeal webs
+901,1490,434.5,Congenital Subglottic Hemangioma,congenital hemangioma subglottic
+902,1490,434.7,Posterior Laryngeal Cleft and,and cleft laryngeal posterior
+903,1490,434.6,Laryngoceles and Saccular Cysts,and cysts laryngoceles saccular
+904,1491,434.8,Vascular and Cardiac Anomalies,and anomalies cardiac vascular
+905,1491,434.9,"Tracheal Stenoses, Webs, and Atresia",and atresia stenoses tracheal webs
+906,1491,434.10,Foregut Cysts,cysts foregut
+907,1491,434.11,Tracheomalacia and Bronchomalacia,and bronchomalacia tracheomalacia
+908,1492,435.1,Laryngeal Foreign Bodies,bodies foreign laryngeal
+909,1492,435.2,Tracheal Foreign Bodies,bodies foreign tracheal
+910,1492,435.3,Bronchial Foreign Bodies,bodies bronchial foreign
+911,1492,436.1,Congenital Subglottic Stenosis,congenital stenosis subglottic
+912,1493,436.2,Acquired Laryngotracheal Stenosis,acquired laryngotracheal stenosis
+913,1494,436.2,Acquired Laryngotracheal Stenosis,acquired laryngotracheal stenosis
+914,1495,438.1,Vocal Nodules,nodules vocal
+915,1495,438.2,Recurrent Respiratory Papillomatosis,papillomatosis recurrent respiratory
+916,1495,438.3,Congenital Subglottic Hemangioma,congenital hemangioma subglottic
+917,1495,438.6,Tracheal Neoplasms,neoplasms tracheal
+918,1495,438.7,Bronchial Tumors,bronchial tumors
+919,1495,438.4,Vascular Malformations,malformations vascular
+920,1495,438.5,Other Laryngeal Neoplasms,laryngeal neoplasms other
+921,1496,439.1,Wheezing in Infants: Bronchiolitis,bronchiolitis in infants wheezing
+922,1497,439.2,Bronchitis,bronchitis
+923,1501,443.1,Bronchiolitis Obliterans,bronchiolitis obliterans
+924,1501,443.2,Follicular Bronchitis,bronchitis follicular
+925,1501,443.3,Pulmonary Alveolar Microlithiasis,alveolar microlithiasis pulmonary
+926,1503,444.1,Pulmonary Agenesis and Aplasia,agenesis and aplasia pulmonary
+927,1503,444.2,Pulmonary Hypoplasia,hypoplasia pulmonary
+928,1503,444.3,Congenital Pulmonary Airway,airway congenital pulmonary
+929,1504,444.4,Pulmonary Sequestration,pulmonary sequestration
+930,1504,444.5,Bronchogenic Cysts,bronchogenic cysts
+931,1504,444.6,Congenital Pulmonary,congenital pulmonary
+932,1505,444.7,Lung Hernia,hernia lung
+933,1505,444.8,Other Congenital Malformations of,congenital malformations of other
+934,1508,447.1,"predispose the affected patients to aspiration, although technically they do not cause aspiration by themselves. These include but are",affected although are aspiration but by cause do include not patients predispose technically the themselves these they to
+935,1509,448.1,Hypersensitivity Pneumonia,hypersensitivity pneumonia
+936,1511,448.2,Occupational and Environmental Lung,and environmental lung occupational
+937,1512,448.3,Granulomatous Lung Disease,disease granulomatous lung
+938,1515,448.4,Eosinophilic Lung Disease,disease eosinophilic lung
+939,1518,448.5,Interstitial Lung Disease,disease interstitial lung
+940,1518,16.2,"cases/100,000 children. This large range in prevalence is likely a",000 100 a cases children in is large likely prevalence range this
+941,1518,448.16,"and 448.17). Growth disorders such as alveolar simplification, unique diseases of infancy such as neuroendocrine cell hyperplasia of infancy (NEHI), and disorders of surfactant metabolism",17 448 alveolar and as cell diseases disorders growth hyperplasia infancy metabolism nehi neuroendocrine of simplification such surfactant unique
+942,1521,448.6,Neuroendocrine Cell Hyperplasia of,cell hyperplasia neuroendocrine of
+943,1522,448.7,Fibrotic Lung Disease,disease fibrotic lung
+944,1526,0.25,μg/L) may help determine when to stop treatment.,determine help l may stop to treatment when μg
+945,1526,449.1,COVID-­19,19 covid
+946,1529,451.2,Serofibrinous or Serosanguineous,or serofibrinous serosanguineous
+947,1529,451.1,Dry Pleurisy,dry pleurisy
+948,1530,451.3,Empyema,empyema
+949,1544,456.1,Inherited Disorders of Surfactant,disorders inherited of surfactant
+950,1545,456.2,Pulmonary Alveolar Proteinosis,alveolar proteinosis pulmonary
+951,1548,458.1,Pulmonary Embolus and Infarction,and embolus infarction pulmonary
+952,1551,2.5,mg twice a day,a day mg twice
+953,1551,458.2,Pulmonary Hemorrhage and,and hemorrhage pulmonary
+954,1559,467.1,Pectus Excavatum (Funnel Chest),chest excavatum funnel pectus
+955,1559,467.2,Pectus Carinatum and Sternal Clefts,and carinatum clefts pectus sternal
+956,1559,467.3,Asphyxiating Thoracic Dystrophy,asphyxiating dystrophy thoracic
+957,1559,467.4,Achondroplasia,achondroplasia
+958,1560,467.5,Kyphoscoliosis: Adolescent Idiopathic,adolescent idiopathic kyphoscoliosis
+959,1560,467.6,Congenital Rib Anomalies,anomalies congenital rib
+960,1560,468.1,Chronic Respiratory Failure and Long-­,and chronic failure long respiratory
+961,1561,468.2,Congenital Central Hypoventilation,central congenital hypoventilation
+962,1564,468.3,Rapid-­Onset Obesity with Hypothalamic,hypothalamic obesity onset rapid with
+963,1564,1.5,years of age; central hypoventilation beginning after age 1.5 years;,1 5 after age beginning central hypoventilation of years
+964,1565,468.4,Long-­Term Ventilation and Technology,and long technology term ventilation
+965,1567,469.1,Early Cardiac Morphogenesis,cardiac early morphogenesis
+966,1567,469.2,Cardiac Looping,cardiac looping
+967,1567,469.3,Cardiac Septation,cardiac septation
+968,1568,469.4,Aortic Arch Development,aortic arch development
+969,1568,469.5,Cardiac Differentiation,cardiac differentiation
+970,1568,469.6,Developmental Changes in Cardiac,cardiac changes developmental in
+971,1569,470.1,The Fetal Circulation,circulation fetal the
+972,1569,470.2,The Transitional Circulation,circulation the transitional
+973,1569,470.3,The Neonatal Circulation,circulation neonatal the
+974,1569,470.4,Persistent Pulmonary Hypertension,hypertension persistent pulmonary
+975,1574,472.1,Radiologic Cardiac Assessment,assessment cardiac radiologic
+976,1575,472.2,Electrocardiography,electrocardiography
+977,1578,472.3,Hematologic Data in Cardiovascular,cardiovascular data hematologic in
+978,1578,472.4,Echocardiography,echocardiography
+979,1580,472.5,Exercise Testing,exercise testing
+980,1580,472.6,Cardiac Imaging Studies,cardiac imaging studies
+981,1580,472.7,Diagnostic and Interventional Cardiac,and cardiac diagnostic interventional
+982,1589,475.2,Ostium Secundum Defect,defect ostium secundum
+983,1589,475.1,Atrial Septal Defect,atrial defect septal
+984,1591,475.3,Sinus Venosus Atrial Septal Defect,atrial defect septal sinus venosus
+985,1591,475.4,Partial Anomalous Pulmonary,anomalous partial pulmonary
+986,1591,475.2,"and 475.3). When an ASD is detected by echocardiography, one",3 475 an and asd by detected echocardiography is one when
+987,1591,475.5,Atrioventricular Septal Defects,atrioventricular defects septal
+988,1592,475.6,Ventricular Septal Defect,defect septal ventricular
+989,1593,475.7,Supracristal Ventricular Septal Defect,defect septal supracristal ventricular
+990,1593,475.8,Patent Ductus Arteriosus,arteriosus ductus patent
+991,1594,475.9,Aortopulmonary Window Defect,aortopulmonary defect window
+992,1595,475.10,Coronary Artery Fistula,artery coronary fistula
+993,1595,475.11,Ruptured Sinus of Valsalva Aneurysm,aneurysm of ruptured sinus valsalva
+994,1595,476.1,Pulmonary Valve Stenosis with Intact,intact pulmonary stenosis valve with
+995,1596,476.2,Infundibular Pulmonary Stenosis and,and infundibular pulmonary stenosis
+996,1596,476.3,Pulmonary Stenosis in Combination,combination in pulmonary stenosis
+997,1596,476.4,Peripheral Pulmonary Stenosis,peripheral pulmonary stenosis
+998,1596,476.5,Aortic Stenosis,aortic stenosis
+999,1598,476.6,Coarctation of the Aorta,aorta coarctation of the
+1000,1599,476.7,Coarctation with Ventricular Septal,coarctation septal ventricular with
+1001,1599,476.8,Coarctation with Other Cardiac,cardiac coarctation other with
+1002,1599,476.9,Congenital Mitral Stenosis,congenital mitral stenosis
+1003,1599,476.10,Pulmonary Venous Hypertension,hypertension pulmonary venous
+1004,1600,477.1,Pulmonary Valvular Insufficiency and,and insufficiency pulmonary valvular
+1005,1600,477.2,Congenital Mitral Insufficiency,congenital insufficiency mitral
+1006,1600,477.3,Mitral Valve Prolapse,mitral prolapse valve
+1007,1600,477.4,Tricuspid Regurgitation,regurgitation tricuspid
+1008,1600,477.3,Mitral Valve Prolapse,mitral prolapse valve
+1009,1600,477.4,Tricuspid Regurgitation,regurgitation tricuspid
+1010,1601,479.1,Tetralogy of Fallot,fallot of tetralogy
+1011,1603,479.2,Tetralogy of Fallot with Pulmonary,fallot of pulmonary tetralogy with
+1012,1604,479.3,Pulmonary Atresia with Intact,atresia intact pulmonary with
+1013,1604,479.4,Tricuspid Atresia,atresia tricuspid
+1014,1605,479.5,Double-­Outlet Right Ventricle,double outlet right ventricle
+1015,1606,479.6,Transposition of the Great Arteries,arteries great of the transposition
+1016,1606,479.7,Ebstein Anomaly of the Tricuspid,anomaly ebstein of the tricuspid
+1017,1607,480.2,d-­Transposition of the Great Arteries,arteries d great of the transposition
+1018,1607,480.1,d-­Transposition of the Great Arteries,arteries d great of the transposition
+1019,1608,480.3,Transposition of the Great Arteries,arteries great of the transposition
+1020,1608,480.4,l-­Transposition of the Great Arteries,arteries great l of the transposition
+1021,1609,480.5,Double-­Outlet Right Ventricle,double outlet right ventricle
+1022,1609,480.6,Double-­Outlet Right Ventricle with,double outlet right ventricle with
+1023,1609,480.7,Total Anomalous Pulmonary Venous,anomalous pulmonary total venous
+1024,1610,480.8,Truncus Arteriosus,arteriosus truncus
+1025,1610,480.9,Single Ventricle (Double-­Inlet,double inlet single ventricle
+1026,1611,480.10,Hypoplastic Left Heart Syndrome,heart hypoplastic left syndrome
+1027,1612,480.11,Abnormal Positions of the Heart,abnormal heart of positions the
+1028,1614,481.1,Anomalies of the Aortic Arch,anomalies aortic arch of the
+1029,1615,481.2,Anomalous Origin of the Coronary,anomalous coronary of origin the
+1030,1616,481.3,Pulmonary Arteriovenous Fistula,arteriovenous fistula pulmonary
+1031,1616,481.4,Ectopia Cordis,cordis ectopia
+1032,1616,481.5,Diverticulum of the Left Ventricle,diverticulum left of the ventricle
+1033,1617,482.1,Primary Pulmonary Hypertension,hypertension primary pulmonary
+1034,1617,482.1,and 482.2). PH is often characterized by progressive vascular,2 482 and by characterized is often ph progressive vascular
+1035,1617,1.1,Idiopathic PAH,idiopathic pah
+1036,1617,1.2,Heritable PAH,heritable pah
+1037,1617,1.3,Drug-­ and toxin-­induced PAH,and drug induced pah toxin
+1038,1617,1.4,PAH associated with:,associated pah with
+1039,1617,1.5,PAH long-­term responders to calcium channel blockers,blockers calcium channel long pah responders term to
+1040,1617,1.6,PAH with overt features of venous/capillaries (PVOD/PCH),capillaries features of overt pah pch pvod venous with
+1041,1617,1.7,Persistent PH of the newborn syndrome,newborn of persistent ph syndrome the
+1042,1617,2.1,PH due to heart failure with preserved LVEF,due failure heart lvef ph preserved to with
+1043,1617,2.2,PH due to heart failure with reduced LVEF,due failure heart lvef ph reduced to with
+1044,1617,2.3,Valvular heart disease,disease heart valvular
+1045,1617,2.4,Congenital/acquired cardiovascular conditions leading to,acquired cardiovascular conditions congenital leading to
+1046,1617,3.1,Obstructive lung disease,disease lung obstructive
+1047,1617,3.2,Restrictive lung disease,disease lung restrictive
+1048,1617,3.3,Other lung disease with mixed restrictive/obstructive pattern,disease lung mixed obstructive other pattern restrictive with
+1049,1617,3.4,Hypoxia without lung disease,disease hypoxia lung without
+1050,1617,3.5,Developmental lung disorders,developmental disorders lung
+1051,1617,4.1,Chronic thromboembolic pulmonary hypertension,chronic hypertension pulmonary thromboembolic
+1052,1617,4.2,Other pulmonary artery obstructions,artery obstructions other pulmonary
+1053,1617,5.1,Hematologic disorders,disorders hematologic
+1054,1617,5.2,Systemic and metabolic disorders,and disorders metabolic systemic
+1055,1617,5.3,Others,others
+1056,1617,5.4,Complex congenital heart disease.,complex congenital disease heart
+1057,1617,482.2,Pulmonary Vascular Disease,disease pulmonary vascular
+1058,1620,483.1,Congenital Heart Disease in Adults,adults congenital disease heart in
+1059,1623,484.1,Principles of Antiarrhythmic Therapy,antiarrhythmic of principles therapy
+1060,1623,484.2,Sinus Arrhythmias and Extrasystoles,and arrhythmias extrasystoles sinus
+1061,1625,484.3,Supraventricular Tachycardia,supraventricular tachycardia
+1062,1628,484.4,Ventricular Tachyarrhythmias,tachyarrhythmias ventricular
+1063,1628,484.5,Long QT Syndromes,long qt syndromes
+1064,1629,484.6,Sinus Node Dysfunction,dysfunction node sinus
+1065,1630,2.52,sec,sec
+1066,1630,2.0,sec,sec
+1067,1630,484.7,Atrioventricular Block,atrioventricular block
+1068,1639,488.1,Dilated Cardiomyopathy,cardiomyopathy dilated
+1069,1639,488.4,"and 488.5). Disorders of fatty acid oxidation present with systemic derangements of metabolism (hypoketotic hypoglycemia, acidosis, and hepatic dysfunction), some with peripheral myopathy and",488 5 acid acidosis and derangements disorders dysfunction fatty hepatic hypoglycemia hypoketotic metabolism myopathy of oxidation peripheral present some systemic with
+1070,1643,488.2,Hypertrophic Cardiomyopathy,cardiomyopathy hypertrophic
+1071,1644,488.3,Restrictive Cardiomyopathy,cardiomyopathy restrictive
+1072,1645,488.4,"Left Ventricular Noncompaction,",left noncompaction ventricular
+1073,1645,488.5,Myocarditis,myocarditis
+1074,1647,489.1,Acute Pericarditis,acute pericarditis
+1075,1648,489.2,Constrictive Pericarditis,constrictive pericarditis
+1076,1650,491.5,lists other causes of an elevated BNP.,an bnp causes elevated lists of other
+1077,1652,491.4,and the dosing in Table 491.7.,491 7 and dosing in table the
+1078,1653,491.1,Cardiogenic Shock,cardiogenic shock
+1079,1653,492.1,Pediatric Heart Transplantation,heart pediatric transplantation
+1080,1653,492.1,Pediatric Heart Transplantation,heart pediatric transplantation
+1081,1655,492.2,Heart-­Lung and Lung Transplantation,and heart lung transplantation
+1082,1655,493.1,Aneurysms,aneurysms
+1083,1655,493.2,Arteriovenous Fistulas,arteriovenous fistulas
+1084,1656,493.4,Arterial Tortuosity,arterial tortuosity
+1085,1656,493.3,Generalized Arterial Calcification of,arterial calcification generalized of
+1086,1661,3.3,mg/kg/day up to 100 mg/day,100 day kg mg to up
+1087,1661,0.2,mg/kg/day up to,day kg mg to up
+1088,1661,0.5,mg/kg/dose (0.05 mg/,0 05 dose kg mg
+1089,1661,0.08,mg/kg/day,day kg mg
+1090,1661,0.1,mg/kg/day up to,day kg mg to up
+1091,1661,0.07,mg/kg/day up to,day kg mg to up
+1092,1661,1.6,mg/m2/day,day m2 mg
+1093,1661,0.6,mg/kg/day up to 40 mg/day,40 day kg mg to up
+1094,1661,0.6,mg/kg/day up to 40 mg/day,40 day kg mg to up
+1095,1661,0.6,mg/kg/day up to 40 mg/day,40 day kg mg to up
+1096,1661,0.6,mg/kg/day up to 40 mg/day,40 day kg mg to up
+1097,1661,0.75,mg/kg/day up to,day kg mg to up
+1098,1661,1.4,mg/kg/day up to 100 mg/day,100 day kg mg to up
+1099,1661,0.1,mg/kg/dose up to,dose kg mg to up
+1100,1661,6.25,mg bid,bid mg
+1101,1661,0.5,mg/kg/dose up to 25 mg bid,25 bid dose kg mg to up
+1102,1661,2.5,mg/day,day mg
+1103,1661,0.6,mg/kg/day up to 10 mg/day,10 day kg mg to up
+1104,1661,0.3,mg/kg/day,day kg mg
+1105,1661,0.25,mg/kg/dose,dose kg mg
+1106,1661,7.5,mg/kg/day up to 200 mg/day,200 day kg mg to up
+1107,1662,0.25,"mg/kg/dose, up to 25 mg/",25 dose kg mg to up
+1108,1670,500.1,Anemia of Chronic Disease,anemia chronic disease of
+1109,1671,500.1,Anemia of Chronic Disease,anemia chronic disease of
+1110,1671,500.2,Anemia of Renal Disease,anemia disease of renal
+1111,1673,58.7,%,
+1112,1673,17.3,%,
+1113,1673,14.8,%,
+1114,1673,3.3,%,
+1115,1673,2.2,%,
+1116,1673,0.4,%,
+1117,1673,0.4,%,
+1118,1673,1.4,%,
+1119,1673,1.8,%,
+1120,1673,3.4,%,
+1121,1673,12.1,%,
+1122,1673,1.4,%,
+1123,1673,77.9,%,
+1124,1673,4.0,%,
+1125,1673,1.1,%,
+1126,1675,503.1,Folic Acid Deficiency,acid deficiency folic
+1127,1676,503.2,Vitamin B12 (Cobalamin) Deficiency,b12 cobalamin deficiency vitamin
+1128,1677,503.3,Other Rare Megaloblastic Anemias,anemias megaloblastic other rare
+1129,1677,503.3,Other Rare Megaloblastic Anemias,anemias megaloblastic other rare
+1130,1683,4.1,"complex, leading to membrane instability (see Fig. 507.1). The usual",1 507 complex fig instability leading membrane see the to usual
+1131,1684,4.1,"complex, leading to membrane instability (see Fig. 507.1). The usual",1 507 complex fig instability leading membrane see the to usual
+1132,1686,511.1,Sickle Cell Disease,cell disease sickle
+1133,1692,511.2,Sickle Cell Trait (Hemoglobin AS),as cell hemoglobin sickle trait
+1134,1692,511.3,Other Hemoglobinopathies,hemoglobinopathies other
+1135,1692,511.4,Unstable Hemoglobin Disorders,disorders hemoglobin unstable
+1136,1693,511.5,Abnormal Hemoglobins with,abnormal hemoglobins with
+1137,1693,511.7,Hereditary Methemoglobinemia,hereditary methemoglobinemia
+1138,1693,511.6,Abnormal Hemoglobins Causing,abnormal causing hemoglobins
+1139,1693,511.8,Hereditary Methemoglobinemia with,hereditary methemoglobinemia with
+1140,1693,11.7,g/dL × 0.01 = 0.117 g/dL (left) and 11.7 g/dL × 0.72 = 8.42 g/dL,0 01 11 117 42 7 72 8 and dl g left
+1141,1693,0.1,"mL of a 0.144 molar solution of sodium nitrate (right), and 0.1 mL of",0 1 144 a and ml molar nitrate of right sodium solution
+1142,1693,511.9,Syndromes of Hereditary Persistence,hereditary of persistence syndromes
+1143,1694,511.10,Thalassemia Syndromes,syndromes thalassemia
+1144,1695,10.5,"g/dL. Ongoing monitoring for transfusion-­associated transmitted infections (hepatitis A, B, and C, HIV), alloimmunization, annual",a alloimmunization and annual associated b c dl for g hepatitis hiv infections monitoring ongoing transfusion transmitted
+1145,1697,512.1,Pyruvate Kinase Deficiency,deficiency kinase pyruvate
+1146,1698,512.2,Other Glycolytic Enzyme Deficiencies,deficiencies enzyme glycolytic other
+1147,1698,512.3,Glucose-­6-­Phosphate Dehydrogenase,6 dehydrogenase glucose phosphate
+1148,1713,523.1,and Fig. 523.1). Taking nucleic acid amplification testing (NAT),1 523 acid amplification and fig nat nucleic taking testing
+1149,1715,524.1,Clinical and Laboratory Evaluation of,and clinical evaluation laboratory of
+1150,1717,524.1,provides an approach to the differential diagnosis of many common bleeding disorders based on screening tests.,an approach based bleeding common diagnosis differential disorders many of on provides screening tests the to
+1151,1717,11.2,(9.5-­12.6),12 5 6 9
+1152,1717,11.0,(9.7-­12.8),12 7 8 9
+1153,1717,11.0,(9.8-­13.0),0 13 8 9
+1154,1717,11.3,(9.9-­13.4),13 4 9
+1155,1717,11.7,(10.0-­14.6),0 10 14 6
+1156,1717,11.8,(10.0-­14.1),0 1 10 14
+1157,1717,10.9,(9.2-­12.2),12 2 9
+1158,1717,35.4,(27.6-­45.6),27 45 6
+1159,1717,33.5,(24.8-­40.7),24 40 7 8
+1160,1717,32.4,(25.1-­40.7),1 25 40 7
+1161,1717,31.6,(24.0-­39.2),0 2 24 39
+1162,1717,31.6,(26.9-­38.7),26 38 7 9
+1163,1717,31.0,(24.6-­38.4),24 38 4 6
+1164,1717,31.7,(27.8-­36.3),27 3 36 8
+1165,1717,2.54,(1.43-­4.02),02 1 4 43
+1166,1717,2.26,(1.50-­3.76),1 3 50 76
+1167,1717,2.33,(1.57-­3.60),1 3 57 60
+1168,1717,2.73,(1.88-­4.13),1 13 4 88
+1169,1717,2.78,(1.89-­4.75),1 4 75 89
+1170,1717,2.66,(1.77-­4.20),1 20 4 77
+1171,1717,2.75,(2.17-­3.42),17 2 3 42
+1172,1718,525.1,Factor VIII or Factor IX Deficiency,deficiency factor ix or viii
+1173,1718,524.1,in Chapter 524 for a depiction of the in vitro clotting process as it,524 a as chapter clotting depiction for in it of process the vitro
+1174,1720,525.2,Factor XI Deficiency,deficiency factor xi
+1175,1720,525.3,Deficiencies of the Contact Factors,contact deficiencies factors of the
+1176,1720,525.4,Factor VII Deficiency,deficiency factor vii
+1177,1720,525.5,Factor X Deficiency,deficiency factor x
+1178,1720,525.6,Prothrombin (Factor II) Deficiency,deficiency factor ii prothrombin
+1179,1720,525.7,Factor V Deficiency,deficiency factor v
+1180,1720,525.8,Combined Deficiency of Factors V,combined deficiency factors of v
+1181,1720,525.9,Congenital Fibrinogen Disorders,congenital disorders fibrinogen
+1182,1720,525.10,Factor XIII Deficiency (Fibrin-­Stabilizing,deficiency factor fibrin stabilizing xiii
+1183,1720,525.11,Antiplasmin or Plasminogen,antiplasmin or plasminogen
+1184,1722,0.3,μg/kg IV†,iv kg μg
+1185,1724,528.1,Anticoagulant and Thrombolytic,and anticoagulant thrombolytic
+1186,1724,528.4,and 528.5). Clinical trials of several direct oral anticoagulants,5 528 and anticoagulants clinical direct of oral several trials
+1187,1728,533.1,Immune Thrombocytopenia,immune thrombocytopenia
+1188,1731,533.2,Drug-­Induced Thrombocytopenia,drug induced thrombocytopenia
+1189,1731,533.3,Nonimmune Platelet Destruction,destruction nonimmune platelet
+1190,1731,533.4,Hemolytic-­Uremic Syndrome,hemolytic syndrome uremic
+1191,1731,533.5,Thrombotic Thrombocytopenic,thrombocytopenic thrombotic
+1192,1731,533.6,Kasabach-­Merritt Syndrome,kasabach merritt syndrome
+1193,1731,533.7,Sequestration,sequestration
+1194,1731,533.8,Congenital Thrombocytopenic,congenital thrombocytopenic
+1195,1732,533.9,Neonatal Thrombocytopenia,neonatal thrombocytopenia
+1196,1732,533.10,Thrombocytopenia From Acquired,acquired from thrombocytopenia
+1197,1732,533.11,Platelet Function Disorders,disorders function platelet
+1198,1732,533.12,Acquired Disorders of Platelet,acquired disorders of platelet
+1199,1733,533.13,Congenital Abnormalities of Platelet,abnormalities congenital of platelet
+1200,1733,533.14,Disorders of the Blood Vessels,blood disorders of the vessels
+1201,1733,533.14,Disorders of the Blood Vessels,blood disorders of the vessels
+1202,1741,539.1,Kikuchi-­Fujimoto Disease (Histiocytic,disease fujimoto histiocytic kikuchi
+1203,1741,539.2,Sinus Histiocytosis with Massive,histiocytosis massive sinus with
+1204,1742,539.3,Castleman Disease (Angiofollicular,angiofollicular castleman disease
+1205,1742,4.5,(37/4),37 4
+1206,1742,0.8,(—),
+1207,1742,0.4,(0.7),0 7
+1208,1753,544.1,Acute Lymphoblastic Leukemia,acute leukemia lymphoblastic
+1209,1755,2.2,(CI:1.6–3.0),0 1 3 6 ci
+1210,1755,0.1,197,197
+1211,1755,1.9,(CI:1.3–2.7),1 2 3 7 ci
+1212,1755,0.1,197,197
+1213,1755,544.2,Acute Myelogenous Leukemia,acute leukemia myelogenous
+1214,1756,544.3,Down Syndrome and Acute,acute and down syndrome
+1215,1756,544.4,Chronic Myelogenous Leukemia,chronic leukemia myelogenous
+1216,1757,544.5,Juvenile Myelomonocytic Leukemia,juvenile leukemia myelomonocytic
+1217,1757,544.6,Infant Leukemia,infant leukemia
+1218,1757,545.1,Hodgkin Lymphoma,hodgkin lymphoma
+1219,1759,545.2,Non-­Hodgkin Lymphoma,hodgkin lymphoma non
+1220,1761,545.8,and 545.9). Surgery is used mainly for diagnosis. Radiation,545 9 and diagnosis for is mainly radiation surgery used
+1221,1762,545.3,Late Effects in Children and,and children effects in late
+1222,1762,545.3,Late Effects in Children and,and children effects in late
+1223,1765,546.7,"A, Sagittal T1-­",a sagittal t1
+1224,1765,546.9,"A, Sagittal T1-­",a sagittal t1
+1225,1770,548.1,Wilms Tumor,tumor wilms
+1226,1770,548.1,Wilms Tumor,tumor wilms
+1227,1773,548.2,Other Pediatric Renal Tumors,other pediatric renal tumors
+1228,1776,550.1,Malignant Tumors of Bone,bone malignant of tumors
+1229,1777,550.2,Benign Tumors and Tumor-­Like,and benign like tumor tumors
+1230,1779,2.1,mean). Open biopsy and bone grafting with or without internal,and biopsy bone grafting internal mean open or with without
+1231,1787,555.1,Thyroid Tumors,thyroid tumors
+1232,1788,555.2,Nasopharyngeal Carcinoma,carcinoma nasopharyngeal
+1233,1788,555.3,Adenocarcinoma of the Colon and,adenocarcinoma and colon of the
+1234,1788,555.4,Adrenal Tumors,adrenal tumors
+1235,1788,555.5,Desmoplastic Small Round Cell Tumor,cell desmoplastic round small tumor
+1236,1789,556.1,Langerhans Cell Histiocytosis,cell histiocytosis langerhans
+1237,1792,556.2,Hemophagocytic Lymphohistiocytosis,hemophagocytic lymphohistiocytosis
+1238,1794,556.3,Other Histiocytoses,histiocytoses other
+1239,1794,557.1,Anatomy of the Glomerulus,anatomy glomerulus of the
+1240,1795,557.2,Glomerular Filtration,filtration glomerular
+1241,1795,557.3,Glomerular Diseases,diseases glomerular
+1242,1798,559.1,Immunoglobulin A Nephropathy,a immunoglobulin nephropathy
+1243,1798,559.2,Alport Syndrome,alport syndrome
+1244,1799,559.3,Thin Basement Membrane Disease,basement disease membrane thin
+1245,1799,559.4,Acute Poststreptococcal,acute poststreptococcal
+1246,1800,559.5,Membranous Nephropathy,membranous nephropathy
+1247,1801,559.6,Membranoproliferative,membranoproliferative
+1248,1801,559.7,Rapidly Progressive (Crescentic),crescentic progressive rapidly
+1249,1802,560.1,Chronic Infections,chronic infections
+1250,1802,560.2,Glomerulonephritis Associated with,associated glomerulonephritis with
+1251,1803,560.3,IgA Vasculitis Nephritis,iga nephritis vasculitis
+1252,1804,560.4,Goodpasture Disease,disease goodpasture
+1253,1804,560.5,Hemolytic-­Uremic Syndrome,hemolytic syndrome uremic
+1254,1806,560.6,Toxic Nephropathy,nephropathy toxic
+1255,1806,560.7,Cortical Necrosis,cortical necrosis
+1256,1806,560.8,Coagulopathies and,and coagulopathies
+1257,1807,561.1,Pyelonephritis,pyelonephritis
+1258,1807,561.2,Tubulointerstitial Nephritis,nephritis tubulointerstitial
+1259,1809,561.3,Papillary Necrosis,necrosis papillary
+1260,1809,561.4,Acute Tubular Necrosis,acute necrosis tubular
+1261,1810,562.1,Vascular Abnormalities,abnormalities vascular
+1262,1810,562.2,Renal Vein Thrombosis,renal thrombosis vein
+1263,1810,562.3,Sickle Cell Nephropathy,cell nephropathy sickle
+1264,1810,562.4,Idiopathic Hypercalciuria,hypercalciuria idiopathic
+1265,1810,562.5,Nephrocalcinosis,nephrocalcinosis
+1266,1811,563.1,Congenital Anomalies,anomalies congenital
+1267,1811,563.2,Autosomal Recessive Polycystic,autosomal polycystic recessive
+1268,1811,563.1,and 563.2).,2 563 and
+1269,1811,563.3,Autosomal Dominant Polycystic,autosomal dominant polycystic
+1270,1813,563.4,Trauma,trauma
+1271,1813,563.5,Renal Tumors,renal tumors
+1272,1813,564.1,Infectious Causes of Cystitis and,and causes cystitis i nfectious of
+1273,1813,564.2,Hemorrhagic Cystitis,cystitis hemorrhagic
+1274,1813,564.3,Vigorous Exercise,exercise vigorous
+1275,1814,566.1,Transient Proteinuria,proteinuria transient
+1276,1814,566.2,Orthostatic (Postural) Proteinuria,orthostatic postural proteinuria
+1277,1814,566.3,Fixed Proteinuria,fixed proteinuria
+1278,1815,0.3,g/1.73 m2/day,1 73 day g m2
+1279,1817,567.1,Idiopathic Nephrotic Syndrome,idiopathic nephrotic syndrome
+1280,1820,567.2,Secondary Nephrotic Syndrome,nephrotic secondary syndrome
+1281,1820,567.3,Congenital Nephrotic Syndrome,congenital nephrotic syndrome
+1282,1821,569.1,Proximal (Type II) Renal Tubular,ii proximal renal tubular type
+1283,1822,569.2,Distal (Type I) Renal Tubular Acidosis,acidosis distal i renal tubular type
+1284,1822,569.3,Hyperkalemic (Type IV) Renal Tubular,hyperkalemic iv renal tubular type
+1285,1823,569.4,Rickets Associated with Renal Tubular,associated renal rickets tubular with
+1286,1824,571.1,Bartter Syndrome,bartter syndrome
+1287,1825,571.2,Gitelman Syndrome,gitelman syndrome
+1288,1825,571.3,Other Inherited Tubular Transport,inherited other transport tubular
+1289,1825,572.1,Acute Kidney Injury,acute injury kidney
+1290,1825,3.0,"times baseline, OR",baseline or times
+1291,1828,572.2,Chronic Kidney Disease,chronic disease kidney
+1292,1830,572.3,End-­Stage Kidney Disease,disease end kidney stage
+1293,1836,575.5,and 575.6).,575 6 and
+1294,1837,99.8,(99–100),100 99
+1295,1854,1.1,± 0.2 cm. The diagnosis of micropenis in a male newborn is if the,0 2 a cm diagnosis if in is male micropenis newborn of the
+1296,1861,3.3,mg/dL GFR†,dl gfr mg
+1297,1861,1.73,m2/24 hr,24 hr m2
+1298,1862,0.4,"mg at bedtime, may facilitate stone passage by decreasing ureteral",at bedtime by decreasing facilitate may mg passage stone ureteral
+1299,1873,7.5,g/m2 in women and females <20,20 and females g in m2 women
+1300,1881,0.35,"mg) can cause significant irregular spotting, so if full suppression is the goal, then other progestins can be used daily, such as",as be can cause daily full goal if irregular is mg other progestins significant so spotting such suppression the then used
+1301,1882,593.2,lists potential risks and protective factors for FGM.,and factors fgm for lists potential protective risks
+1302,1892,0.5,mg/day until cessation of growth occurs. Short-­term side effects,cessation day effects growth mg occurs of short side term until
+1303,1893,598.1,Overgrowth Syndromes,overgrowth syndromes
+1304,1896,600.1,Central Precocious Puberty,central precocious puberty
+1305,1897,600.1,"and 600.2). For females, these include tumors of the ovaries, autonomously functioning ovarian cysts, feminizing adrenal",2 600 adrenal and autonomously cysts females feminizing for functioning include of ovarian ovaries the these tumors
+1306,1898,600.2,Precocious Puberty Resulting from,from precocious puberty resulting
+1307,1899,600.3,Precocious Puberty After Irradiation,after irradiation precocious puberty
+1308,1899,600.4,Syndrome of Precocious Puberty and,and of precocious puberty syndrome
+1309,1899,600.5,Chorionic Gonadotropin-­Secreting,chorionic gonadotropin secreting
+1310,1899,600.6,McCune-­Albright Syndrome,albright mccune syndrome
+1311,1900,600.7,Familial Male-­Limited Gonadotropin-­,familial gonadotropin limited male
+1312,1900,2.5,"mg/day or anastrozole 1 mg/day) has been used—the latter compounds to suppress estrogens derived from androgens, which potently",1 anastrozole androgens been compounds day derived estrogens from has latter mg or potently suppress the to used which
+1313,1900,600.8,Incomplete (Partial) Precocious,incomplete partial precocious
+1314,1900,600.9,Medicational Precocity,medicational precocity
+1315,1900,600.10,Delayed or Absent Puberty,absent delayed or puberty
+1316,1904,601.1,Thyroid Hormone Studies,hormone studies thyroid
+1317,1910,605.1,Congenital Goiter,congenital goiter
+1318,1910,605.2,Intratracheal Goiter,goiter intratracheal
+1319,1910,605.3,Endemic Goiter and Cretinism,and cretinism endemic goiter
+1320,1911,605.4,Acquired Goiter,acquired goiter
+1321,1911,606.1,Graves Disease,disease graves
+1322,1914,606.2,Congenital Hyperthyroidism,congenital hyperthyroidism
+1323,1915,607.1,Thyroid Nodules,nodules thyroid
+1324,1918,611.1,and Fig. 611.1). After the second to third day and during the first,1 611 after and day during fig first second the third to
+1325,1922,613.1,Other Causes of Hypercalcemia,causes hypercalcemia of other
+1326,1923,614.1,Histology and Embryology,and embryology histology
+1327,1923,614.2,Adrenal Steroid Biosynthesis,adrenal biosynthesis steroid
+1328,1924,614.1,and 614.2). Shortly after the fetal adrenal gland forms (weeks,2 614 adrenal after and fetal forms gland shortly the weeks
+1329,1924,614.3,Regulation of the Adrenal Cortex,adrenal cortex of regulation the
+1330,1925,614.4,Adrenal Steroid Hormone Actions,actions adrenal hormone steroid
+1331,1926,614.5,Adrenal Medulla,adrenal medulla
+1332,1926,615.1,Primary Adrenal Insufficiency,adrenal insufficiency primary
+1333,1926,106.2,and 639.3). High levels of very long-­chain fatty acids are found,3 639 acids and are chain fatty found high levels long of very
+1334,1930,615.2,Secondary and Tertiary Adrenal,adrenal and secondary tertiary
+1335,1931,615.3,Adrenal Insufficiency in the Critical,adrenal critical in insufficiency the
+1336,1931,615.4,Altered End-­Organ Sensitivity to,altered end organ sensitivity to
+1337,1932,616.1,Congenital Adrenal Hyperplasia,adrenal congenital hyperplasia
+1338,1935,0.4,"mg daily, and often require sodium supplementation (sodium chloride 8 mmol/kg) in addition to the mineralocorticoid. Older infants",8 addition and chloride daily in infants kg mg mineralocorticoid mmol often older require sodium supplementation the to
+1339,1935,616.3,Congenital Adrenal Hyperplasia,adrenal congenital hyperplasia
+1340,1935,616.2,Congenital Adrenal Hyperplasia,adrenal congenital hyperplasia
+1341,1936,616.4,Congenital Adrenal Hyperplasia,adrenal congenital hyperplasia
+1342,1936,616.5,Lipoid Adrenal Hyperplasia,adrenal hyperplasia lipoid
+1343,1936,616.6,Deficiency of P450 Oxidoreductase,deficiency of oxidoreductase p450
+1344,1936,616.7,Aldosterone Synthase Deficiency,aldosterone deficiency synthase
+1345,1937,616.8,Glucocorticoid-­Remediable,glucocorticoid remediable
+1346,1937,617.1,Adrenocortical Carcinoma,adrenocortical carcinoma
+1347,1938,617.2,Adrenal Incidentaloma,adrenal incidentaloma
+1348,1938,617.3,Adrenal Calcification,adrenal calcification
+1349,1944,13.5,"years of age, reaching maturity at 13-­17 years of age. In a minority",13 17 a age at in maturity minority of reaching years
+1350,1945,623.1,Hypergonadotropic Hypogonadism in,hypergonadotropic hypogonadism in
+1351,1947,623.2,Hypogonadotropic Hypogonadism in,hypogonadism hypogonadotropic in
+1352,1949,626.1,Hypergonadotropic Hypogonadism in,hypergonadotropic hypogonadism in
+1353,1952,626.2,Hypogonadotropic Hypogonadism,hypogonadism hypogonadotropic
+1354,1953,628.1,illustrates the production of steroid hormones in various glands and,and glands hormones illustrates in of production steroid the various
+1355,1954,628.1,"46,XX DSD",46 dsd xx
+1356,1956,628.2,"46,XY DSD",46 dsd xy
+1357,1958,628.3,Ovotesticular DSD,dsd ovotesticular
+1358,1959,629.1,Classification of Diabetes Mellitus,classification diabetes mellitus of
+1359,1960,7.0,mmol/L),l mmol
+1360,1960,629.2,Type 1 Diabetes Mellitus (Immune,1 diabetes immune mellitus type
+1361,1960,32.9,in Whites.,in whites
+1362,1961,13.1,- 14.4,14 4
+1363,1964,1.6,mEq,meq
+1364,1965,0.2,units/kg/day,day kg units
+1365,1970,629.3,Type 2 Diabetes Mellitus,2 diabetes mellitus type
+1366,1972,629.4,Other Specific Types of Diabetes,diabetes of other specific types
+1367,1982,631.1,Neural Tube Defects,defects neural tube
+1368,1982,631.2,Myelomeningocele,myelomeningocele
+1369,1983,631.3,Occult Spinal Dysraphism,dysraphism occult spinal
+1370,1983,631.3,and 631.4). A spine x-­ray in simple spina bifida occulta shows a,4 631 a and bifida in occulta ray shows simple spina spine x
+1371,1983,631.4,Encephalocele,encephalocele
+1372,1984,631.5,Anencephaly,anencephaly
+1373,1984,631.6,Malformations of Cortical,cortical malformations of
+1374,1986,631.7,Disorders with Midline Defects,defects disorders midline with
+1375,1989,631.8,Dysgenesis of the Cranial Nerves and,and cranial dysgenesis nerves of the
+1376,1990,631.9,Hydrocephalus,hydrocephalus
+1377,1992,631.10,Craniosynostosis,craniosynostosis
+1378,1999,633.1,Febrile Seizures,febrile seizures
+1379,2000,633.2,Unprovoked Seizures,seizures unprovoked
+1380,2001,633.3,Focal Seizures and Related Epilepsy,and epilepsy focal related seizures
+1381,2001,633.4,Generalized Seizures and Related,and generalized related seizures
+1382,2003,633.5,Mechanisms of Seizures,mechanisms of seizures
+1383,2003,633.6,Treatment of Seizures and Epilepsy,and epilepsy of seizures treatment
+1384,2006,2.5,mg/mL soln,mg ml soln
+1385,2010,633.7,Neonatal Seizures,neonatal seizures
+1386,2013,0.1,"mg/kg when used for acute treatment of seizures, and 0.05 mg/kg",0 05 acute and for kg mg of seizures treatment used when
+1387,2013,633.8,Status Epilepticus,epilepticus status
+1388,2015,0.1,"mg/kg up to maximum of 4 mg, may repeat in 5-­10 min",10 4 5 in kg maximum may mg min of repeat to up
+1389,2015,0.1,mg/kg up to maximum of 5 mg,5 kg maximum mg of to up
+1390,2015,0.2,"mg/kg up to 10 mg total dose, may repeat in 5-­10 min",10 5 dose in kg may mg min repeat to total up
+1391,2015,0.2,mg/kg,kg mg
+1392,2015,0.2,mg/kg,kg mg
+1393,2015,0.5,mg/kg,kg mg
+1394,2015,0.15,mg/kg up to a maximum total dose of 10 mg; may repeat in 5-­10 min,10 5 a dose in kg maximum may mg min of repeat to total up
+1395,2016,633.9,Reflex Seizures (Stimulus-­Precipitated,precipitated reflex seizures stimulus
+1396,2016,633.10,Nodding Syndrome,nodding syndrome
+1397,2021,635.1,Migraine,migraine
+1398,2024,12.5,mg,mg
+1399,2024,2.5,mg,mg
+1400,2024,2.5,mg,mg
+1401,2024,0.5,mg/kg/24 hr,24 hr kg mg
+1402,2025,0.15,mg/kg/IV; max,iv kg max mg
+1403,2025,0.2,mg/kg IV; 10 mg,10 iv kg mg
+1404,2025,0.5,mg/kg IV; 15 mg,15 iv kg mg
+1405,2025,0.5,mg/dose every,dose every mg
+1406,2025,1.0,mg/dose every 8,8 dose every mg
+1407,2025,0.5,mg/spray,mg spray
+1408,2026,16.8,± 2.0 years (minimum 11 years; maximum 21 years). OnabotulinumtoxinA injections improved disability scores (PedMIDAS) and,0 11 2 21 and disability improved injections maximum minimum onabotulinumtoxina pedmidas scores years
+1409,2026,635.2,Secondary Headaches,headaches secondary
+1410,2027,635.3,Tension-­Type Headaches,headaches tension type
+1411,2027,636.1,Neurofibromatosis,neurofibromatosis
+1412,2030,636.2,Tuberous Sclerosis,sclerosis tuberous
+1413,2031,636.3,Sturge-­Weber Syndrome,sturge syndrome weber
+1414,2032,636.4,Von Hippel-­Lindau Disease,disease hippel lindau von
+1415,2032,636.5,Linear Nevus Sebaceous Syndrome,linear nevus sebaceous syndrome
+1416,2032,636.6,PHACE Syndrome,phace syndrome
+1417,2032,636.7,Incontinentia Pigmenti,incontinentia pigmenti
+1418,2033,637.1,Ataxias,ataxias
+1419,2038,637.2,"Chorea, Athetosis, and Tremor",and athetosis chorea tremor
+1420,2041,637.3,Myoclonus,myoclonus
+1421,2041,637.4,Dystonia,dystonia
+1422,2044,637.7,Pantothenate kinase–associated neurodegeneration,associated kinase neurodegeneration pantothenate
+1423,2044,637.20,and Figure 637.9.,637 9 and figure
+1424,2045,638.1,Cerebral Palsy,cerebral palsy
+1425,2049,638.2,Mitochondrial Encephalomyopathies,encephalomyopathies mitochondrial
+1426,2051,638.6,"and 638.8. However, brain MRI rarely leads to a specific genetic",638 8 a and brain genetic however leads mri rarely specific to
+1427,2051,638.3,Other Encephalopathies,encephalopathies other
+1428,2052,638.4,Autoimmune Encephalitis,autoimmune encephalitis
+1429,2056,639.1,Sphingolipidoses,sphingolipidoses
+1430,2058,639.2,Neuronal Ceroid Lipofuscinoses,ceroid lipofuscinoses neuronal
+1431,2058,639.3,Adrenoleukodystrophy,adrenoleukodystrophy
+1432,2058,639.4,Sialidosis,sialidosis
+1433,2059,639.5,Miscellaneous Neurodegenerative,miscellaneous neurodegenerative
+1434,2062,640.1,Acute Disseminated,acute disseminated
+1435,2063,640.2,Optic Neuritis,neuritis optic
+1436,2064,640.3,Transverse Myelitis,myelitis transverse
+1437,2066,640.4,Multiple Sclerosis,multiple sclerosis
+1438,2067,640.5,Myelin Oligodendrocyte,myelin oligodendrocyte
+1439,2069,640.6,Neuromyelitis Optica Spectrum,neuromyelitis optica spectrum
+1440,2071,641.1,Arterial Ischemic Stroke,arterial ischemic stroke
+1441,2073,641.4,and see Table 641.3). Cranial ultrasound frequently misses,3 641 and cranial frequently misses see table ultrasound
+1442,2074,641.2,Cerebral Sinovenous Thrombosis,cerebral sinovenous thrombosis
+1443,2075,641.3,Spinal Cord Lesions Associated with,associated cord lesions spinal with
+1444,2075,641.4,Hemorrhagic Stroke,hemorrhagic stroke
+1445,2077,641.5,Differential Diagnosis of Strokelike,diagnosis differential of strokelike
+1446,2079,643.1,Acute Bacterial Meningitis Beyond,acute bacterial beyond meningitis
+1447,2081,643.2,"and 643.3 and see Chapter 643.2). Focal infections of the CNS,",2 3 643 and chapter cns focal infections of see the
+1448,2085,7.5,divided q8h,divided q8h
+1449,2085,7.5,divided q8h,divided q8h
+1450,2086,643.2,Viral Meningoencephalitis,meningoencephalitis viral
+1451,2088,643.3,Eosinophilic Meningitis,eosinophilic meningitis
+1452,2093,646.1,Tethered Cord,cord tethered
+1453,2093,646.2,Diastematomyelia (Split-­Cord,cord diastematomyelia split
+1454,2094,646.3,Syringomyelia,syringomyelia
+1455,2095,646.4,Spinal Cord Tumors,cord spinal tumors
+1456,2095,646.5,Spinal Arteriovenous Malformations,arteriovenous malformations spinal
+1457,2102,648.1,Myotubular Myopathy (Centronuclear,centronuclear myopathy myotubular
+1458,2103,648.5,distinguishes CNM from other congenital myopathies.,cnm congenital distinguishes from myopathies other
+1459,2103,648.2,Congenital Muscle Fiber–Type,congenital fiber muscle type
+1460,2104,648.3,Nemaline Rod Myopathy,myopathy nemaline rod
+1461,2104,648.4,Core Myopathies,core myopathies
+1462,2105,648.7,shows a family with a recessive RYR1 gene variant in the index,a family gene in index recessive ryr1 shows the variant with
+1463,2106,648.5,Myofibrillar Myopathies,myofibrillar myopathies
+1464,2107,648.6,Brain Malformations and Muscle,and brain malformations muscle
+1465,2108,648.7,Amyoplasia,amyoplasia
+1466,2108,648.8,Muscular Dysgenesis (Proteus,dysgenesis muscular proteus
+1467,2108,648.9,Benign Congenital Hypotonia,benign congenital hypotonia
+1468,2108,648.10,Arthrogryposis,arthrogryposis
+1469,2112,649.1,Duchenne and Becker Muscular,and becker duchenne muscular
+1470,2112,649.1,Duchenne and Becker Muscular,and becker duchenne muscular
+1471,2116,649.2,Emery-­Dreifuss Muscular Dystrophy/,dreifuss dystrophy emery muscular
+1472,2116,649.3,Myotonic Muscular Dystrophy,dystrophy muscular myotonic
+1473,2118,649.4,Limb-­Girdle Muscular Dystrophies,dystrophies girdle limb muscular
+1474,2119,649.5,Facioscapulohumeral Muscular,facioscapulohumeral muscular
+1475,2120,649.6,Congenital Muscular Dystrophies,congenital dystrophies muscular
+1476,2122,651.1,Periodic Paralyses and Other Muscle,and muscle other paralyses periodic
+1477,2123,651.2,Malignant Hyperthermia,hyperthermia malignant
+1478,2124,651.3,Glycogenoses,glycogenoses
+1479,2124,651.4,Mitochondrial Myopathies,mitochondrial myopathies
+1480,2126,651.5,Lipid Myopathies,lipid myopathies
+1481,2126,651.6,Vitamin E Deficiency Myopathy,deficiency e myopathy vitamin
+1482,2127,652.1,Myasthenia Gravis,gravis myasthenia
+1483,2130,2.6,mg for oculomotor symptoms. Side effects include nausea and,and effects for include mg nausea oculomotor side symptoms
+1484,2131,652.2,Spinal Muscular Atrophies,atrophies muscular spinal
+1485,2135,652.3,Other Motor Neuron Diseases,diseases motor neuron other
+1486,2136,653.1,Peroneal Muscular Atrophy,atrophy muscular peroneal
+1487,2141,653.2,Peroneal Muscular Atrophy (Axonal,atrophy axonal muscular peroneal
+1488,2141,653.3,Congenital Hypomyelinating,congenital hypomyelinating
+1489,2141,653.4,Roussy-­Lévy Syndrome,lévy roussy syndrome
+1490,2141,653.5,Refsum Disease (HMSN Type IV) and,and disease hmsn iv refsum type
+1491,2141,653.6,Fabry Disease,disease fabry
+1492,2142,653.7,Giant Axonal Neuropathy,axonal giant neuropathy
+1493,2142,653.8,Hypermyelinating (Tomaculous),hypermyelinating tomaculous
+1494,2143,653.9,Leukodystrophies,leukodystrophies
+1495,2143,653.10,Congenital Hereditary Sensory Pain,congenital hereditary pain sensory
+1496,2146,655.1,Familial Dysautonomia,dysautonomia familial
+1497,2147,655.2,Other Autonomic Neuropathies,autonomic neuropathies other
+1498,2161,663.9,and Table 663.4.,4 663 and table
+1499,2166,665.3,"and 665.4). Initial treatment of dacryocystocele is usually conservative, involving massage/digital decompression of the lacrimal",4 665 and conservative dacryocystocele decompression digital initial involving is lacrimal massage of the treatment usually
+1500,2192,677.1,Idiopathic Sudden Sensorineural,idiopathic sensorineural sudden
+1501,2208,686.1,Cutaneous Manifestations of Systemic,cutaneous manifestations of systemic
+1502,2212,686.2,Multisystem Medication Reactions,medication multisystem reactions
