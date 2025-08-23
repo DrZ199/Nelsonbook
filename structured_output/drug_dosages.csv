@@ -1,0 +1,8 @@
+dosage_id,drug_id,route,dosage,age_group
+1,21,,0.0625-0.125 mg q4h,2-12 yr
+2,24,,2.5-5 mg/dose,6-12 yr
+3,24,,12 years,
+4,25,,2.5-5 mg/dose,6-12 yr
+5,25,,12 years,
+6,21,,2.5-5 mg/dose,6-12 yr
+7,21,,12 years,
