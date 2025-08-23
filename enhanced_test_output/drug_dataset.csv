@@ -1,0 +1,11 @@
+drug_id,drug_name,brand_names,indications,dosage_id,dosage,route,age_group
+24,lorazepam,,,1,0.0625-0.125 mg q4h,,2-12 yr
+28,ondansetron,,,2,2.5-5 mg/dose,,6-12 yr
+28,ondansetron,,,3,12 years,,
+29,dexamethasone,,,4,2.5-5 mg/dose,,6-12 yr
+29,dexamethasone,,,5,12 years,,
+24,lorazepam,,,6,2.5-5 mg/dose,,6-12 yr
+24,lorazepam,,,7,12 years,,
+31,clonazepam,,,8,12 mg/day,,6 yr
+31,clonazepam,,,9,16 mg,,14 yr
+31,clonazepam,,,10,32 mg/day,,15 yr

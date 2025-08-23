@@ -1,0 +1,75 @@
+condition_id,condition_name,clinical_manifestations,epidemiology,section_id,section_number,section_title,chapter_id,chapter_title,chapter_number,part_id,part_number,part_title,volume_id,volume_title
+1,Hypertension,,,0,,,,,,,,,,
+2,Dyslipidemia,,,0,,,,,,,,,,
+3,Heart Failure,,,0,,,,,,,,,,
+4,Endocarditis,,,0,,,,,,,,,,
+5,Asthma,,,0,,,,,,,,,,
+6,Cystic Fibrosis,,,0,,,,,,,,,,
+7,Pulmonary Hypertension,,,0,,,,,,,,,,
+8,asthma,,,1,131.2,Paraesophageal Hernia,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+9,pneumonia,,,1,131.2,Paraesophageal Hernia,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+10,appendicitis,,,1,131.2,Paraesophageal Hernia,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+11,respiratory distress syndrome,,,1,131.2,Paraesophageal Hernia,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+12,systemic lupus erythematosus,,,2,550.1,Malignant Tumors of Bone,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+13,gastroenteritis,,,5,2.1,Racism and Child Health,83.0,Child Care,29.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+14,cerebral palsy,,,6,468.3,Rapid-­Onset Obesity with Hypothalamic,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+15,congenital heart disease,,,5,2.1,Racism and Child Health,83.0,Child Care,29.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+16,sinusitis,,,9,493.1,Aneurysms,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+17,cellulitis,,,9,493.1,Aneurysms,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+18,cystic fibrosis,,,9,493.1,Aneurysms,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+19,autism spectrum disorder,,,10,633.1,Nodding Syndrome,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+20,lymphoma,,,10,633.1,Nodding Syndrome,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+21,vesicoureteral reflux,,,16,114.1,"Race, Class, and Birth Outcomes",117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+22,cleft lip,,,30,572.1,Acute Kidney Injury,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+23,malnutrition,,,30,572.1,Acute Kidney Injury,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+24,gastroschisis,,,31,483.1,Congenital Heart Disease in Adults,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+25,nephrotic syndrome,,,32,15.1,"Bullying, Cyberbullying, and School Violence",68.0,Impact of Violence,15.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+26,hirschsprung disease,,,34,504.1,Iron-­Refractory Iron Deficiency Anemia,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+27,obesity,,,11,199.1,Neonatal Lupus,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+28,pharyngitis,,,36,492.2,Heart-­Lung and Lung Transplantation,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+29,necrotizing enterocolitis,,,31,483.1,Congenital Heart Disease in Adults,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+30,leukemia,,,40,448.6,Neuroendocrine Cell Hyperplasia of Infancy,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+31,neuroblastoma,,,42,468.4,Long-­term Ventilation and Technology,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+32,rickets,,,42,468.4,Long-­term Ventilation and Technology,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+33,bronchiolitis,,,48,555.5,Desmoplastic Small Round Cell Tumor,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+34,anxiety,,,6,468.3,Rapid-­Onset Obesity with Hypothalamic,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+35,intussusception,,,38,468.1,Chronic Respiratory Failure and Long-­Term,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+36,pyloric stenosis,,,38,468.1,Chronic Respiratory Failure and Long-­Term,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+37,eczema,,,38,468.1,Chronic Respiratory Failure and Long-­Term,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+38,kawasaki disease,,,38,468.1,Chronic Respiratory Failure and Long-­Term,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+39,otitis media,,,87,636.3,Sturge-­Weber Syndrome,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+40,hemophilia,,,87,636.3,Sturge-­Weber Syndrome,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+41,down syndrome,,,87,636.3,Sturge-­Weber Syndrome,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+42,juvenile idiopathic arthritis,,,88,106.3,Disorders of Lipoprotein Metabolism and,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+43,croup,,,93,388.1,Diarrhea from Neuroendocrine Tumors,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+44,hypothyroidism,,,89,468.2,Congenital Central Hypoventilation,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+45,congenital adrenal hyperplasia,,,54,15.3,Effects of War on Children,68.0,Impact of Violence,15.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+46,meningitis,,,6,468.3,Rapid-­Onset Obesity with Hypothalamic,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+47,encephalitis,,,6,468.3,Rapid-­Onset Obesity with Hypothalamic,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+48,sickle cell disease,,,6,468.3,Rapid-­Onset Obesity with Hypothalamic,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+49,depression,,,6,468.3,Rapid-­Onset Obesity with Hypothalamic,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+50,epilepsy,,,6,468.3,Rapid-­Onset Obesity with Hypothalamic,117.0,Nutritional Requirements,60.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+51,urinary tract infection,,,124,3.5,Preventive and curative medical,93.0,Mood Disorders,39.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+52,phenylketonuria,,,126,2.2,"families, and on medical staff. For this reason, ongoing evaluation of goals",83.0,Child Care,29.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+53,constipation,,,126,2.2,"families, and on medical staff. For this reason, ongoing evaluation of goals",83.0,Child Care,29.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+54,failure to thrive,,,126,2.2,"families, and on medical staff. For this reason, ongoing evaluation of goals",83.0,Child Care,29.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+55,scabies,,,126,2.2,"families, and on medical staff. For this reason, ongoing evaluation of goals",83.0,Child Care,29.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+56,impetigo,,,128,17.2,These skin,70.0,Abused and Neglected,17.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+57,scurvy,,,128,17.2,These skin,70.0,Abused and Neglected,17.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+58,turner syndrome,,,128,17.2,These skin,70.0,Abused and Neglected,17.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+59,febrile seizure,,,128,17.2,These skin,70.0,Abused and Neglected,17.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+60,cleft palate,,,130,30.2,The presence of secure and stable adults who can meet the child’s,84.0,"Loss, Separation, and",30.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+61,eating disorder,,,130,30.2,The presence of secure and stable adults who can meet the child’s,84.0,"Loss, Separation, and",30.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+62,hyperthyroidism,,,130,30.2,The presence of secure and stable adults who can meet the child’s,84.0,"Loss, Separation, and",30.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+63,tetralogy of fallot,,,130,30.2,The presence of secure and stable adults who can meet the child’s,84.0,"Loss, Separation, and",30.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+64,type 1 diabetes,,,133,38.12,Of note,92.0,"Anxiety Disorders,",38.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+65,adrenal insufficiency,,,133,38.12,Of note,92.0,"Anxiety Disorders,",38.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+66,fragile x syndrome,,,133,38.12,Of note,92.0,"Anxiety Disorders,",38.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+67,attention deficit hyperactivity disorder,,,133,38.12,Of note,92.0,"Anxiety Disorders,",38.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+68,galactosemia,,,137,53.3,"Many children with language impairment eventually become competent language users, though they may show persistent and subtle",110.0,Language Development,53.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+69,intraventricular hemorrhage,,,137,53.3,"Many children with language impairment eventually become competent language users, though they may show persistent and subtle",110.0,Language Development,53.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+70,williams syndrome,,,137,53.3,"Many children with language impairment eventually become competent language users, though they may show persistent and subtle",110.0,Language Development,53.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+71,ventricular septal defect,,,140,57.3,Fetuses with other,114.0,Down Syndrome and,57.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+72,atrial septal defect,,,140,57.3,Fetuses with other,114.0,Down Syndrome and,57.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+73,patent ductus arteriosus,,,140,57.3,Fetuses with other,114.0,Down Syndrome and,57.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
+74,tinea,,,141,57.4,"The link between children’s physical health, development, and",114.0,Down Syndrome and,57.0,1.0,I,The Field of Pediatrics,1.0,Core Concepts and Development
